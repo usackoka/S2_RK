@@ -1,0 +1,3601 @@
+CodigoArticulo,LLAVE,VALUE
+AB000001,Descripcion   ,Blusa para dama
+AB000001,Linea         ,Ropa de Dama
+AB000001,CostoPromedio ,50.0
+AB000001,CodigoCliente ,K543942
+AB000001,NombreCliente ,Kaye Howe
+AB000001,CodigoTienda  ,T21
+AB000001,NombreTienda  ,Tienda 42
+AB000001,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000001,Region        ,Norte
+AB000001,Departamento  ,Jalapa
+AB000001,CodigoPlanta  ,P7
+AB000001,NombrePlanta  ,Planta 7
+AB000001,Region_1      ,Sur
+AB000001,Departamento_1,Retalhuleu
+AB000001,cantidad      ,2.0
+AB000001,precio        ,75.0
+AB000001,costo         ,62.25
+AB000001,fecha         ,Sat May 01 00:00:00 CST 2010
+AB000001,Descripcion   ,Blusa para dama
+AB000001,Linea         ,Ropa de Dama
+AB000001,CostoPromedio ,50.0
+AB000001,CodigoCliente ,YC43217
+AB000001,NombreCliente ,Non Quam Pellentesque Inc.
+AB000001,CodigoTienda  ,T7
+AB000001,NombreTienda  ,Tienda 43
+AB000001,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000001,Region        ,Norte
+AB000001,Departamento  ,Chiquimula
+AB000001,CodigoPlanta  ,P2
+AB000001,NombrePlanta  ,Planta 2
+AB000001,Region_1      ,Norte
+AB000001,Departamento_1,Escuintla
+AB000001,cantidad      ,15.0
+AB000001,precio        ,75.0
+AB000001,costo         ,72.0
+AB000001,fecha         ,Fri Mar 01 00:00:00 CST 2013
+AB000001,Descripcion   ,Blusa para dama
+AB000001,Linea         ,Ropa de Dama
+AB000001,CostoPromedio ,50.0
+AB000001,CodigoCliente ,KL32736
+AB000001,NombreCliente ,Cum Sociis Natoque Consulting
+AB000001,CodigoTienda  ,T33
+AB000001,NombreTienda  ,Tienda 43
+AB000001,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000001,Region        ,Norte
+AB000001,Departamento  ,Chiquimula
+AB000001,CodigoPlanta  ,P3
+AB000001,NombrePlanta  ,Planta 3
+AB000001,Region_1      ,Norte
+AB000001,Departamento_1,El Progreso
+AB000001,cantidad      ,20.0
+AB000001,precio        ,75.0
+AB000001,costo         ,52.5
+AB000001,fecha         ,Sat Oct 01 00:00:00 CST 2011
+AB000001,Descripcion   ,Blusa para dama
+AB000001,Linea         ,Ropa de Dama
+AB000001,CostoPromedio ,50.0
+AB000001,CodigoCliente ,ML34358
+AB000001,NombreCliente ,Ac Facilisis LLC
+AB000001,CodigoTienda  ,T16
+AB000001,NombreTienda  ,Tienda 5
+AB000001,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000001,Region        ,Norte
+AB000001,Departamento  ,Baja Verapaz
+AB000001,CodigoPlanta  ,P3
+AB000001,NombrePlanta  ,Planta 3
+AB000001,Region_1      ,Norte
+AB000001,Departamento_1,El Progreso
+AB000001,cantidad      ,22.0
+AB000001,precio        ,75.0
+AB000001,costo         ,57.75
+AB000001,fecha         ,Tue Jan 01 00:00:00 CST 2008
+AB000001,Descripcion   ,Blusa para dama
+AB000001,Linea         ,Ropa de Dama
+AB000001,CostoPromedio ,50.0
+AB000001,CodigoCliente ,GG16557
+AB000001,NombreCliente ,Ut Aliquam Iaculis Associates
+AB000001,CodigoTienda  ,T14
+AB000001,NombreTienda  ,Tienda 5
+AB000001,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000001,Region        ,Norte
+AB000001,Departamento  ,Baja Verapaz
+AB000001,CodigoPlanta  ,P6
+AB000001,NombrePlanta  ,Planta 6
+AB000001,Region_1      ,Occidente
+AB000001,Departamento_1,Quetzaltenango
+AB000001,cantidad      ,10.0
+AB000001,precio        ,75.0
+AB000001,costo         ,55.5
+AB000001,fecha         ,Tue May 01 00:00:00 CST 2007
+AB000002,Descripcion   ,Pantalon de vestir
+AB000002,Linea         ,Ropa de Dama
+AB000002,CostoPromedio ,120.0
+AB000002,CodigoCliente ,SU45845
+AB000002,NombreCliente ,Nec Ante Maecenas Ltd
+AB000002,CodigoTienda  ,T28
+AB000002,NombreTienda  ,Tienda 42
+AB000002,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000002,Region        ,Norte
+AB000002,Departamento  ,Jalapa
+AB000002,CodigoPlanta  ,P1
+AB000002,NombrePlanta  ,Planta 1
+AB000002,Region_1      ,Norte
+AB000002,Departamento_1,Guatemala
+AB000002,cantidad      ,20.0
+AB000002,precio        ,180.0
+AB000002,costo         ,144.0
+AB000002,fecha         ,Mon Apr 01 00:00:00 CST 2013
+AB000003,Descripcion   ,Pantalon de mezclilla
+AB000003,Linea         ,Ropa de Dama
+AB000003,CostoPromedio ,120.0
+AB000003,CodigoCliente ,G295694
+AB000003,NombreCliente ,Zoe Holland
+AB000003,CodigoTienda  ,T12
+AB000003,NombreTienda  ,Tienda 5
+AB000003,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000003,Region        ,Norte
+AB000003,Departamento  ,Baja Verapaz
+AB000003,CodigoPlanta  ,P8
+AB000003,NombrePlanta  ,Planta 8
+AB000003,Region_1      ,Sur
+AB000003,Departamento_1,San Marcos
+AB000003,cantidad      ,7.0
+AB000003,precio        ,180.0
+AB000003,costo         ,178.2
+AB000003,fecha         ,Tue Aug 01 00:00:00 CST 2017
+AB000003,Descripcion   ,Pantalon de mezclilla
+AB000003,Linea         ,Ropa de Dama
+AB000003,CostoPromedio ,120.0
+AB000003,CodigoCliente ,H432191
+AB000003,NombreCliente ,Ryder Mcmahon
+AB000003,CodigoTienda  ,T29
+AB000003,NombreTienda  ,Tienda 42
+AB000003,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000003,Region        ,Norte
+AB000003,Departamento  ,Jalapa
+AB000003,CodigoPlanta  ,P4
+AB000003,NombrePlanta  ,Planta 4
+AB000003,Region_1      ,Sur
+AB000003,Departamento_1,Zacapa
+AB000003,cantidad      ,11.0
+AB000003,precio        ,180.0
+AB000003,costo         ,153.0
+AB000003,fecha         ,Thu Jun 01 00:00:00 CST 2017
+AB000004,Descripcion   ,Blazer
+AB000004,Linea         ,Ropa de Dama
+AB000004,CostoPromedio ,180.0
+AB000004,CodigoCliente ,Z746623
+AB000004,NombreCliente ,Gil Oneal
+AB000004,CodigoTienda  ,T27
+AB000004,NombreTienda  ,Tienda 42
+AB000004,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000004,Region        ,Norte
+AB000004,Departamento  ,Jalapa
+AB000004,CodigoPlanta  ,P1
+AB000004,NombrePlanta  ,Planta 1
+AB000004,Region_1      ,Norte
+AB000004,Departamento_1,Guatemala
+AB000004,cantidad      ,10.0
+AB000004,precio        ,270.0
+AB000004,costo         ,199.8
+AB000004,fecha         ,Sun Jul 01 00:00:00 CST 2007
+AB000004,Descripcion   ,Blazer
+AB000004,Linea         ,Ropa de Dama
+AB000004,CostoPromedio ,180.0
+AB000004,CodigoCliente ,LF82249
+AB000004,NombreCliente ,Quam A LLP
+AB000004,CodigoTienda  ,T26
+AB000004,NombreTienda  ,Tienda 42
+AB000004,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000004,Region        ,Norte
+AB000004,Departamento  ,Jalapa
+AB000004,CodigoPlanta  ,P8
+AB000004,NombrePlanta  ,Planta 8
+AB000004,Region_1      ,Sur
+AB000004,Departamento_1,San Marcos
+AB000004,cantidad      ,6.0
+AB000004,precio        ,270.0
+AB000004,costo         ,245.7
+AB000004,fecha         ,Tue Nov 01 00:00:00 CST 2011
+AB000004,Descripcion   ,Blazer
+AB000004,Linea         ,Ropa de Dama
+AB000004,CostoPromedio ,180.0
+AB000004,CodigoCliente ,WV21923
+AB000004,NombreCliente ,Molestie Incorporated
+AB000004,CodigoTienda  ,T17
+AB000004,NombreTienda  ,Tienda 5
+AB000004,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000004,Region        ,Norte
+AB000004,Departamento  ,Baja Verapaz
+AB000004,CodigoPlanta  ,P8
+AB000004,NombrePlanta  ,Planta 8
+AB000004,Region_1      ,Sur
+AB000004,Departamento_1,San Marcos
+AB000004,cantidad      ,11.0
+AB000004,precio        ,270.0
+AB000004,costo         ,248.4
+AB000004,fecha         ,Thu Apr 01 00:00:00 CST 2010
+AB000004,Descripcion   ,Blazer
+AB000004,Linea         ,Ropa de Dama
+AB000004,CostoPromedio ,180.0
+AB000004,CodigoCliente ,BD98856
+AB000004,NombreCliente ,Bibendum Fermentum Foundation
+AB000004,CodigoTienda  ,T16
+AB000004,NombreTienda  ,Tienda 5
+AB000004,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000004,Region        ,Norte
+AB000004,Departamento  ,Baja Verapaz
+AB000004,CodigoPlanta  ,P9
+AB000004,NombrePlanta  ,Planta 9
+AB000004,Region_1      ,Norte
+AB000004,Departamento_1,Izabal
+AB000004,cantidad      ,19.0
+AB000004,precio        ,270.0
+AB000004,costo         ,194.39999999999998
+AB000004,fecha         ,Tue Dec 01 00:00:00 CST 2009
+AB000005,Descripcion   ,Pijama
+AB000005,Linea         ,Ropa de Dama
+AB000005,CostoPromedio ,169.0
+AB000005,CodigoCliente ,S922619
+AB000005,NombreCliente ,Jocelyn Sutton
+AB000005,CodigoTienda  ,T40
+AB000005,NombreTienda  ,Tienda 43
+AB000005,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000005,Region        ,Norte
+AB000005,Departamento  ,Chiquimula
+AB000005,CodigoPlanta  ,P10
+AB000005,NombrePlanta  ,Planta 1
+AB000005,Region_1      ,Norte
+AB000005,Departamento_1,Guatemala
+AB000005,cantidad      ,20.0
+AB000005,precio        ,253.5
+AB000005,costo         ,210.405
+AB000005,fecha         ,Fri Mar 01 00:00:00 CST 2013
+AB000005,Descripcion   ,Pijama
+AB000005,Linea         ,Ropa de Dama
+AB000005,CostoPromedio ,169.0
+AB000005,CodigoCliente ,LC61454
+AB000005,NombreCliente ,Id Magna Et LLC
+AB000005,CodigoTienda  ,T21
+AB000005,NombreTienda  ,Tienda 42
+AB000005,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000005,Region        ,Norte
+AB000005,Departamento  ,Jalapa
+AB000005,CodigoPlanta  ,P9
+AB000005,NombrePlanta  ,Planta 9
+AB000005,Region_1      ,Norte
+AB000005,Departamento_1,Izabal
+AB000005,cantidad      ,14.0
+AB000005,precio        ,253.5
+AB000005,costo         ,185.055
+AB000005,fecha         ,Tue Mar 01 00:00:00 CST 2016
+AB000006,Descripcion   ,Vestidos
+AB000006,Linea         ,Ropa de Dama
+AB000006,CostoPromedio ,90.0
+AB000006,CodigoCliente ,R564289
+AB000006,NombreCliente ,Kadeem Holden
+AB000006,CodigoTienda  ,T21
+AB000006,NombreTienda  ,Tienda 42
+AB000006,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000006,Region        ,Norte
+AB000006,Departamento  ,Jalapa
+AB000006,CodigoPlanta  ,P1
+AB000006,NombrePlanta  ,Planta 1
+AB000006,Region_1      ,Norte
+AB000006,Departamento_1,Guatemala
+AB000006,cantidad      ,23.0
+AB000006,precio        ,135.0
+AB000006,costo         ,82.35
+AB000006,fecha         ,Thu May 01 00:00:00 CST 2014
+AB000006,Descripcion   ,Vestidos
+AB000006,Linea         ,Ropa de Dama
+AB000006,CostoPromedio ,90.0
+AB000006,CodigoCliente ,W521274
+AB000006,NombreCliente ,Kasper Wolfe
+AB000006,CodigoTienda  ,T24
+AB000006,NombreTienda  ,Tienda 42
+AB000006,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000006,Region        ,Norte
+AB000006,Departamento  ,Jalapa
+AB000006,CodigoPlanta  ,P4
+AB000006,NombrePlanta  ,Planta 4
+AB000006,Region_1      ,Sur
+AB000006,Departamento_1,Zacapa
+AB000006,cantidad      ,12.0
+AB000006,precio        ,135.0
+AB000006,costo         ,75.6
+AB000006,fecha         ,Mon May 01 00:00:00 CST 2006
+AB000006,Descripcion   ,Vestidos
+AB000006,Linea         ,Ropa de Dama
+AB000006,CostoPromedio ,90.0
+AB000006,CodigoCliente ,NX96558
+AB000006,NombreCliente ,Penatibus Incorporated
+AB000006,CodigoTienda  ,T24
+AB000006,NombreTienda  ,Tienda 42
+AB000006,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000006,Region        ,Norte
+AB000006,Departamento  ,Jalapa
+AB000006,CodigoPlanta  ,P5
+AB000006,NombrePlanta  ,Planta 5
+AB000006,Region_1      ,Norte
+AB000006,Departamento_1,Petén
+AB000006,cantidad      ,1.0
+AB000006,precio        ,135.0
+AB000006,costo         ,68.85
+AB000006,fecha         ,Fri May 01 00:00:00 CST 2015
+AB000007,Descripcion   ,Falda corta
+AB000007,Linea         ,Ropa de Dama
+AB000007,CostoPromedio ,60.0
+AB000007,CodigoCliente ,H434583
+AB000007,NombreCliente ,Bruno Sullivan
+AB000007,CodigoTienda  ,T19
+AB000007,NombreTienda  ,Tienda 5
+AB000007,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000007,Region        ,Norte
+AB000007,Departamento  ,Baja Verapaz
+AB000007,CodigoPlanta  ,P10
+AB000007,NombrePlanta  ,Planta 1
+AB000007,Region_1      ,Norte
+AB000007,Departamento_1,Guatemala
+AB000007,cantidad      ,19.0
+AB000007,precio        ,90.0
+AB000007,costo         ,58.5
+AB000007,fecha         ,Sun Sep 01 00:00:00 CST 2013
+AB000008,Descripcion   ,Falda Larga
+AB000008,Linea         ,Ropa de Dama
+AB000008,CostoPromedio ,70.0
+AB000008,CodigoCliente ,DN92527
+AB000008,NombreCliente ,Tellus Institute
+AB000008,CodigoTienda  ,T11
+AB000008,NombreTienda  ,Tienda 5
+AB000008,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000008,Region        ,Norte
+AB000008,Departamento  ,Baja Verapaz
+AB000008,CodigoPlanta  ,P2
+AB000008,NombrePlanta  ,Planta 2
+AB000008,Region_1      ,Norte
+AB000008,Departamento_1,Escuintla
+AB000008,cantidad      ,13.0
+AB000008,precio        ,105.0
+AB000008,costo         ,76.65
+AB000008,fecha         ,Fri Jan 01 00:00:00 CST 2010
+AB000008,Descripcion   ,Falda Larga
+AB000008,Linea         ,Ropa de Dama
+AB000008,CostoPromedio ,70.0
+AB000008,CodigoCliente ,FS69939
+AB000008,NombreCliente ,Ipsum Corporation
+AB000008,CodigoTienda  ,T15
+AB000008,NombreTienda  ,Tienda 5
+AB000008,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000008,Region        ,Norte
+AB000008,Departamento  ,Baja Verapaz
+AB000008,CodigoPlanta  ,P10
+AB000008,NombrePlanta  ,Planta 1
+AB000008,Region_1      ,Norte
+AB000008,Departamento_1,Guatemala
+AB000008,cantidad      ,2.0
+AB000008,precio        ,105.0
+AB000008,costo         ,92.4
+AB000008,fecha         ,Thu Nov 01 00:00:00 CST 2007
+AB000009,Descripcion   ,Camisa polo
+AB000009,Linea         ,Ropa de caballero
+AB000009,CostoPromedio ,120.0
+AB000009,CodigoCliente ,I291567
+AB000009,NombreCliente ,Claire Good
+AB000009,CodigoTienda  ,T27
+AB000009,NombreTienda  ,Tienda 42
+AB000009,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000009,Region        ,Norte
+AB000009,Departamento  ,Jalapa
+AB000009,CodigoPlanta  ,P5
+AB000009,NombrePlanta  ,Planta 5
+AB000009,Region_1      ,Norte
+AB000009,Departamento_1,Petén
+AB000009,cantidad      ,16.0
+AB000009,precio        ,180.0
+AB000009,costo         ,109.8
+AB000009,fecha         ,Tue Aug 01 00:00:00 CST 2017
+AB000009,Descripcion   ,Camisa polo
+AB000009,Linea         ,Ropa de caballero
+AB000009,CostoPromedio ,120.0
+AB000009,CodigoCliente ,M456377
+AB000009,NombreCliente ,Ulric Marshall
+AB000009,CodigoTienda  ,T20
+AB000009,NombreTienda  ,Tienda 42
+AB000009,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000009,Region        ,Norte
+AB000009,Departamento  ,Jalapa
+AB000009,CodigoPlanta  ,P8
+AB000009,NombrePlanta  ,Planta 8
+AB000009,Region_1      ,Sur
+AB000009,Departamento_1,San Marcos
+AB000009,cantidad      ,21.0
+AB000009,precio        ,180.0
+AB000009,costo         ,174.6
+AB000009,fecha         ,Sat Oct 01 00:00:00 CST 2016
+AB000009,Descripcion   ,Camisa polo
+AB000009,Linea         ,Ropa de caballero
+AB000009,CostoPromedio ,120.0
+AB000009,CodigoCliente ,Z843862
+AB000009,NombreCliente ,Kelsie Holloway
+AB000009,CodigoTienda  ,T29
+AB000009,NombreTienda  ,Tienda 42
+AB000009,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000009,Region        ,Norte
+AB000009,Departamento  ,Jalapa
+AB000009,CodigoPlanta  ,P8
+AB000009,NombrePlanta  ,Planta 8
+AB000009,Region_1      ,Sur
+AB000009,Departamento_1,San Marcos
+AB000009,cantidad      ,3.0
+AB000009,precio        ,180.0
+AB000009,costo         ,133.2
+AB000009,fecha         ,Mon Nov 01 00:00:00 CST 2010
+AB000009,Descripcion   ,Camisa polo
+AB000009,Linea         ,Ropa de caballero
+AB000009,CostoPromedio ,120.0
+AB000009,CodigoCliente ,JN99126
+AB000009,NombreCliente ,Erat Nonummy Ultricies Institute
+AB000009,CodigoTienda  ,T33
+AB000009,NombreTienda  ,Tienda 43
+AB000009,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000009,Region        ,Norte
+AB000009,Departamento  ,Chiquimula
+AB000009,CodigoPlanta  ,P5
+AB000009,NombrePlanta  ,Planta 5
+AB000009,Region_1      ,Norte
+AB000009,Departamento_1,Petén
+AB000009,cantidad      ,6.0
+AB000009,precio        ,180.0
+AB000009,costo         ,113.4
+AB000009,fecha         ,Fri Jul 01 00:00:00 CST 2011
+AB000009,Descripcion   ,Camisa polo
+AB000009,Linea         ,Ropa de caballero
+AB000009,CostoPromedio ,120.0
+AB000009,CodigoCliente ,MW63791
+AB000009,NombreCliente ,Proin LLP
+AB000009,CodigoTienda  ,T3
+AB000009,NombreTienda  ,Tienda 43
+AB000009,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000009,Region        ,Norte
+AB000009,Departamento  ,Chiquimula
+AB000009,CodigoPlanta  ,P8
+AB000009,NombrePlanta  ,Planta 8
+AB000009,Region_1      ,Sur
+AB000009,Departamento_1,San Marcos
+AB000009,cantidad      ,21.0
+AB000009,precio        ,180.0
+AB000009,costo         ,104.4
+AB000009,fecha         ,Mon Sep 01 00:00:00 CST 2014
+AB000010,Descripcion   ,Camisa de vestir
+AB000010,Linea         ,Ropa de caballero
+AB000010,CostoPromedio ,150.0
+AB000010,CodigoCliente ,KE51218
+AB000010,NombreCliente ,Fringilla Porttitor Corp.
+AB000010,CodigoTienda  ,T14
+AB000010,NombreTienda  ,Tienda 5
+AB000010,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000010,Region        ,Norte
+AB000010,Departamento  ,Baja Verapaz
+AB000010,CodigoPlanta  ,P9
+AB000010,NombrePlanta  ,Planta 9
+AB000010,Region_1      ,Norte
+AB000010,Departamento_1,Izabal
+AB000010,cantidad      ,21.0
+AB000010,precio        ,225.0
+AB000010,costo         ,139.5
+AB000010,fecha         ,Sun Feb 01 00:00:00 CST 2009
+AB000011,Descripcion   ,Pantalon de vestir
+AB000011,Linea         ,Ropa de caballero
+AB000011,CostoPromedio ,140.0
+AB000011,CodigoCliente ,Y163896
+AB000011,NombreCliente ,Lyle Joseph
+AB000011,CodigoTienda  ,T12
+AB000011,NombreTienda  ,Tienda 5
+AB000011,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000011,Region        ,Norte
+AB000011,Departamento  ,Baja Verapaz
+AB000011,CodigoPlanta  ,P4
+AB000011,NombrePlanta  ,Planta 4
+AB000011,Region_1      ,Sur
+AB000011,Departamento_1,Zacapa
+AB000011,cantidad      ,25.0
+AB000011,precio        ,210.0
+AB000011,costo         ,142.8
+AB000011,fecha         ,Sun Jul 01 00:00:00 CST 2007
+AB000011,Descripcion   ,Pantalon de vestir
+AB000011,Linea         ,Ropa de caballero
+AB000011,CostoPromedio ,140.0
+AB000011,CodigoCliente ,JS36344
+AB000011,NombreCliente ,Aliquet Proin Company
+AB000011,CodigoTienda  ,T33
+AB000011,NombreTienda  ,Tienda 43
+AB000011,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000011,Region        ,Norte
+AB000011,Departamento  ,Chiquimula
+AB000011,CodigoPlanta  ,P7
+AB000011,NombrePlanta  ,Planta 7
+AB000011,Region_1      ,Sur
+AB000011,Departamento_1,Retalhuleu
+AB000011,cantidad      ,21.0
+AB000011,precio        ,210.0
+AB000011,costo         ,138.6
+AB000011,fecha         ,Wed Apr 01 00:00:00 CST 2015
+AB000012,Descripcion   ,Pantalon de mezclilla
+AB000012,Linea         ,Ropa de caballero
+AB000012,CostoPromedio ,140.0
+AB000012,CodigoCliente ,D657895
+AB000012,NombreCliente ,Tanisha Pate
+AB000012,CodigoTienda  ,T37
+AB000012,NombreTienda  ,Tienda 43
+AB000012,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000012,Region        ,Norte
+AB000012,Departamento  ,Chiquimula
+AB000012,CodigoPlanta  ,P3
+AB000012,NombrePlanta  ,Planta 3
+AB000012,Region_1      ,Norte
+AB000012,Departamento_1,El Progreso
+AB000012,cantidad      ,3.0
+AB000012,precio        ,210.0
+AB000012,costo         ,136.5
+AB000012,fecha         ,Tue Jul 01 00:00:00 CST 2014
+AB000012,Descripcion   ,Pantalon de mezclilla
+AB000012,Linea         ,Ropa de caballero
+AB000012,CostoPromedio ,140.0
+AB000012,CodigoCliente ,MQ77396
+AB000012,NombreCliente ,Auctor Mauris Consulting
+AB000012,CodigoTienda  ,T35
+AB000012,NombreTienda  ,Tienda 43
+AB000012,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000012,Region        ,Norte
+AB000012,Departamento  ,Chiquimula
+AB000012,CodigoPlanta  ,P9
+AB000012,NombrePlanta  ,Planta 9
+AB000012,Region_1      ,Norte
+AB000012,Departamento_1,Izabal
+AB000012,cantidad      ,7.0
+AB000012,precio        ,210.0
+AB000012,costo         ,121.8
+AB000012,fecha         ,Thu Dec 01 00:00:00 CST 2016
+AB000013,Descripcion   ,Chumpa de lona
+AB000013,Linea         ,Ropa de caballero
+AB000013,CostoPromedio ,250.0
+AB000013,CodigoCliente ,ME95877
+AB000013,NombreCliente ,Neque Pellentesque Ltd
+AB000013,CodigoTienda  ,T17
+AB000013,NombreTienda  ,Tienda 5
+AB000013,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000013,Region        ,Norte
+AB000013,Departamento  ,Baja Verapaz
+AB000013,CodigoPlanta  ,P6
+AB000013,NombrePlanta  ,Planta 6
+AB000013,Region_1      ,Occidente
+AB000013,Departamento_1,Quetzaltenango
+AB000013,cantidad      ,11.0
+AB000013,precio        ,375.0
+AB000013,costo         ,326.25
+AB000013,fecha         ,Fri Jan 01 00:00:00 CST 2016
+AB000014,Descripcion   ,Chumpa de cuero
+AB000014,Linea         ,Ropa de caballero
+AB000014,CostoPromedio ,600.0
+AB000014,CodigoCliente ,GB87774
+AB000014,NombreCliente ,Risus In Mi Industries
+AB000014,CodigoTienda  ,T13
+AB000014,NombreTienda  ,Tienda 5
+AB000014,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000014,Region        ,Norte
+AB000014,Departamento  ,Baja Verapaz
+AB000014,CodigoPlanta  ,P4
+AB000014,NombrePlanta  ,Planta 4
+AB000014,Region_1      ,Sur
+AB000014,Departamento_1,Zacapa
+AB000014,cantidad      ,13.0
+AB000014,precio        ,900.0
+AB000014,costo         ,792.0
+AB000014,fecha         ,Fri Jul 01 00:00:00 CST 2005
+AB000015,Descripcion   ,Pantalon de lona
+AB000015,Linea         ,Ropa de niños
+AB000015,CostoPromedio ,110.0
+AB000015,CodigoCliente ,W344699
+AB000015,NombreCliente ,Quemby Foley
+AB000015,CodigoTienda  ,T38
+AB000015,NombreTienda  ,Tienda 43
+AB000015,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000015,Region        ,Norte
+AB000015,Departamento  ,Chiquimula
+AB000015,CodigoPlanta  ,P6
+AB000015,NombrePlanta  ,Planta 6
+AB000015,Region_1      ,Occidente
+AB000015,Departamento_1,Quetzaltenango
+AB000015,cantidad      ,20.0
+AB000015,precio        ,165.0
+AB000015,costo         ,141.9
+AB000015,fecha         ,Sat Sep 01 00:00:00 CST 2012
+AB000015,Descripcion   ,Pantalon de lona
+AB000015,Linea         ,Ropa de niños
+AB000015,CostoPromedio ,110.0
+AB000015,CodigoCliente ,KF27823
+AB000015,NombreCliente ,Eu Eros Nam Incorporated
+AB000015,CodigoTienda  ,T6
+AB000015,NombreTienda  ,Tienda 43
+AB000015,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000015,Region        ,Norte
+AB000015,Departamento  ,Chiquimula
+AB000015,CodigoPlanta  ,P4
+AB000015,NombrePlanta  ,Planta 4
+AB000015,Region_1      ,Sur
+AB000015,Departamento_1,Zacapa
+AB000015,cantidad      ,2.0
+AB000015,precio        ,165.0
+AB000015,costo         ,153.45
+AB000015,fecha         ,Tue Aug 01 00:00:00 CST 2017
+AB000016,Descripcion   ,Pantaloneta
+AB000016,Linea         ,Ropa de niños
+AB000016,CostoPromedio ,50.0
+AB000016,CodigoCliente ,RL84637
+AB000016,NombreCliente ,Vulputate Eu Corp.
+AB000016,CodigoTienda  ,T43
+AB000016,NombreTienda  ,Tienda 43
+AB000016,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000016,Region        ,Norte
+AB000016,Departamento  ,Chiquimula
+AB000016,CodigoPlanta  ,P1
+AB000016,NombrePlanta  ,Planta 1
+AB000016,Region_1      ,Norte
+AB000016,Departamento_1,Guatemala
+AB000016,cantidad      ,9.0
+AB000016,precio        ,75.0
+AB000016,costo         ,45.75
+AB000016,fecha         ,Sat Dec 01 00:00:00 CST 2007
+AB000017,Descripcion   ,Camisa
+AB000017,Linea         ,Ropa de niños
+AB000017,CostoPromedio ,60.0
+AB000017,CodigoCliente ,R482853
+AB000017,NombreCliente ,Adara Lawrence
+AB000017,CodigoTienda  ,T34
+AB000017,NombreTienda  ,Tienda 43
+AB000017,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000017,Region        ,Norte
+AB000017,Departamento  ,Chiquimula
+AB000017,CodigoPlanta  ,P3
+AB000017,NombrePlanta  ,Planta 3
+AB000017,Region_1      ,Norte
+AB000017,Departamento_1,El Progreso
+AB000017,cantidad      ,3.0
+AB000017,precio        ,90.0
+AB000017,costo         ,73.8
+AB000017,fecha         ,Fri Jul 01 00:00:00 CST 2016
+AB000017,Descripcion   ,Camisa
+AB000017,Linea         ,Ropa de niños
+AB000017,CostoPromedio ,60.0
+AB000017,CodigoCliente ,LR83328
+AB000017,NombreCliente ,Nec Leo Consulting
+AB000017,CodigoTienda  ,T26
+AB000017,NombreTienda  ,Tienda 42
+AB000017,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000017,Region        ,Norte
+AB000017,Departamento  ,Jalapa
+AB000017,CodigoPlanta  ,P6
+AB000017,NombrePlanta  ,Planta 6
+AB000017,Region_1      ,Occidente
+AB000017,Departamento_1,Quetzaltenango
+AB000017,cantidad      ,1.0
+AB000017,precio        ,90.0
+AB000017,costo         ,45.0
+AB000017,fecha         ,Wed Feb 01 00:00:00 CST 2012
+AB000018,Descripcion   ,Playera
+AB000018,Linea         ,Ropa de niños
+AB000018,CostoPromedio ,60.0
+AB000018,CodigoCliente ,WR15121
+AB000018,NombreCliente ,Sapien Cras Dolor PC
+AB000018,CodigoTienda  ,T29
+AB000018,NombreTienda  ,Tienda 42
+AB000018,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000018,Region        ,Norte
+AB000018,Departamento  ,Jalapa
+AB000018,CodigoPlanta  ,P10
+AB000018,NombrePlanta  ,Planta 1
+AB000018,Region_1      ,Norte
+AB000018,Departamento_1,Guatemala
+AB000018,cantidad      ,21.0
+AB000018,precio        ,90.0
+AB000018,costo         ,82.8
+AB000018,fecha         ,Wed Oct 01 00:00:00 CST 2014
+AB000019,Descripcion   ,Caminadora
+AB000019,Linea         ,Deporte
+AB000019,CostoPromedio ,3800.0
+AB000019,CodigoCliente ,Z499617
+AB000019,NombreCliente ,Wesley England
+AB000019,CodigoTienda  ,T38
+AB000019,NombreTienda  ,Tienda 43
+AB000019,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000019,Region        ,Norte
+AB000019,Departamento  ,Chiquimula
+AB000019,CodigoPlanta  ,P3
+AB000019,NombrePlanta  ,Planta 3
+AB000019,Region_1      ,Norte
+AB000019,Departamento_1,El Progreso
+AB000019,cantidad      ,11.0
+AB000019,precio        ,5700.0
+AB000019,costo         ,5358.0
+AB000019,fecha         ,Tue Apr 01 00:00:00 CST 2014
+AB000019,Descripcion   ,Caminadora
+AB000019,Linea         ,Deporte
+AB000019,CostoPromedio ,3800.0
+AB000019,CodigoCliente ,H455964
+AB000019,NombreCliente ,Bruno Burks
+AB000019,CodigoTienda  ,T7
+AB000019,NombreTienda  ,Tienda 43
+AB000019,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000019,Region        ,Norte
+AB000019,Departamento  ,Chiquimula
+AB000019,CodigoPlanta  ,P2
+AB000019,NombrePlanta  ,Planta 2
+AB000019,Region_1      ,Norte
+AB000019,Departamento_1,Escuintla
+AB000019,cantidad      ,23.0
+AB000019,precio        ,5700.0
+AB000019,costo         ,3135.0
+AB000019,fecha         ,Sun Jun 01 00:00:00 CST 2014
+AB000019,Descripcion   ,Caminadora
+AB000019,Linea         ,Deporte
+AB000019,CostoPromedio ,3800.0
+AB000019,CodigoCliente ,U961913
+AB000019,NombreCliente ,Nita Mcdowell
+AB000019,CodigoTienda  ,T24
+AB000019,NombreTienda  ,Tienda 42
+AB000019,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000019,Region        ,Norte
+AB000019,Departamento  ,Jalapa
+AB000019,CodigoPlanta  ,P2
+AB000019,NombrePlanta  ,Planta 2
+AB000019,Region_1      ,Norte
+AB000019,Departamento_1,Escuintla
+AB000019,cantidad      ,5.0
+AB000019,precio        ,5700.0
+AB000019,costo         ,3819.0
+AB000019,fecha         ,Thu Oct 01 00:00:00 CST 2015
+AB000019,Descripcion   ,Caminadora
+AB000019,Linea         ,Deporte
+AB000019,CostoPromedio ,3800.0
+AB000019,CodigoCliente ,Y119131
+AB000019,NombreCliente ,Nadine Kelly
+AB000019,CodigoTienda  ,T1
+AB000019,NombreTienda  ,Tienda 5
+AB000019,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000019,Region        ,Norte
+AB000019,Departamento  ,Baja Verapaz
+AB000019,CodigoPlanta  ,P6
+AB000019,NombrePlanta  ,Planta 6
+AB000019,Region_1      ,Occidente
+AB000019,Departamento_1,Quetzaltenango
+AB000019,cantidad      ,23.0
+AB000019,precio        ,5700.0
+AB000019,costo         ,5529.0
+AB000019,fecha         ,Mon Jun 01 00:00:00 CST 2009
+AB000019,Descripcion   ,Caminadora
+AB000019,Linea         ,Deporte
+AB000019,CostoPromedio ,3800.0
+AB000019,CodigoCliente ,XD49865
+AB000019,NombreCliente ,Suspendisse Aliquet Limited
+AB000019,CodigoTienda  ,T20
+AB000019,NombreTienda  ,Tienda 42
+AB000019,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000019,Region        ,Norte
+AB000019,Departamento  ,Jalapa
+AB000019,CodigoPlanta  ,P8
+AB000019,NombrePlanta  ,Planta 8
+AB000019,Region_1      ,Sur
+AB000019,Departamento_1,San Marcos
+AB000019,cantidad      ,22.0
+AB000019,precio        ,5700.0
+AB000019,costo         ,5244.0
+AB000019,fecha         ,Sun Nov 01 00:00:00 CST 2015
+AB000020,Descripcion   ,Eliptica
+AB000020,Linea         ,Deporte
+AB000020,CostoPromedio ,2500.0
+AB000020,CodigoCliente ,K748936
+AB000020,NombreCliente ,Hector Foreman
+AB000020,CodigoTienda  ,T23
+AB000020,NombreTienda  ,Tienda 42
+AB000020,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000020,Region        ,Norte
+AB000020,Departamento  ,Jalapa
+AB000020,CodigoPlanta  ,P9
+AB000020,NombrePlanta  ,Planta 9
+AB000020,Region_1      ,Norte
+AB000020,Departamento_1,Izabal
+AB000020,cantidad      ,24.0
+AB000020,precio        ,3750.0
+AB000020,costo         ,2962.5
+AB000020,fecha         ,Sun May 01 00:00:00 CST 2016
+AB000020,Descripcion   ,Eliptica
+AB000020,Linea         ,Deporte
+AB000020,CostoPromedio ,2500.0
+AB000020,CodigoCliente ,A678591
+AB000020,NombreCliente ,Moana Frazier
+AB000020,CodigoTienda  ,T22
+AB000020,NombreTienda  ,Tienda 42
+AB000020,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000020,Region        ,Norte
+AB000020,Departamento  ,Jalapa
+AB000020,CodigoPlanta  ,P8
+AB000020,NombrePlanta  ,Planta 8
+AB000020,Region_1      ,Sur
+AB000020,Departamento_1,San Marcos
+AB000020,cantidad      ,21.0
+AB000020,precio        ,3750.0
+AB000020,costo         ,1987.5
+AB000020,fecha         ,Mon Dec 01 00:00:00 CST 2014
+AB000021,Descripcion   ,Pelota medicinal
+AB000021,Linea         ,Deporte
+AB000021,CostoPromedio ,150.0
+AB000021,CodigoCliente ,F888291
+AB000021,NombreCliente ,Wesley Oneill
+AB000021,CodigoTienda  ,T35
+AB000021,NombreTienda  ,Tienda 43
+AB000021,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000021,Region        ,Norte
+AB000021,Departamento  ,Chiquimula
+AB000021,CodigoPlanta  ,P10
+AB000021,NombrePlanta  ,Planta 1
+AB000021,Region_1      ,Norte
+AB000021,Departamento_1,Guatemala
+AB000021,cantidad      ,9.0
+AB000021,precio        ,225.0
+AB000021,costo         ,162.0
+AB000021,fecha         ,Tue Mar 01 00:00:00 CST 2016
+AB000021,Descripcion   ,Pelota medicinal
+AB000021,Linea         ,Deporte
+AB000021,CostoPromedio ,150.0
+AB000021,CodigoCliente ,B423618
+AB000021,NombreCliente ,Tanek Green
+AB000021,CodigoTienda  ,T30
+AB000021,NombreTienda  ,Tienda 43
+AB000021,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000021,Region        ,Norte
+AB000021,Departamento  ,Chiquimula
+AB000021,CodigoPlanta  ,P1
+AB000021,NombrePlanta  ,Planta 1
+AB000021,Region_1      ,Norte
+AB000021,Departamento_1,Guatemala
+AB000021,cantidad      ,7.0
+AB000021,precio        ,225.0
+AB000021,costo         ,168.75
+AB000021,fecha         ,Tue Apr 01 00:00:00 CST 2008
+AB000021,Descripcion   ,Pelota medicinal
+AB000021,Linea         ,Deporte
+AB000021,CostoPromedio ,150.0
+AB000021,CodigoCliente ,SN68257
+AB000021,NombreCliente ,Eu Foundation
+AB000021,CodigoTienda  ,T37
+AB000021,NombreTienda  ,Tienda 43
+AB000021,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000021,Region        ,Norte
+AB000021,Departamento  ,Chiquimula
+AB000021,CodigoPlanta  ,P2
+AB000021,NombrePlanta  ,Planta 2
+AB000021,Region_1      ,Norte
+AB000021,Departamento_1,Escuintla
+AB000021,cantidad      ,8.0
+AB000021,precio        ,225.0
+AB000021,costo         ,139.5
+AB000021,fecha         ,Thu Sep 01 00:00:00 CST 2016
+AB000021,Descripcion   ,Pelota medicinal
+AB000021,Linea         ,Deporte
+AB000021,CostoPromedio ,150.0
+AB000021,CodigoCliente ,FU49931
+AB000021,NombreCliente ,Nam Tempor Company
+AB000021,CodigoTienda  ,T43
+AB000021,NombreTienda  ,Tienda 43
+AB000021,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000021,Region        ,Norte
+AB000021,Departamento  ,Chiquimula
+AB000021,CodigoPlanta  ,P4
+AB000021,NombrePlanta  ,Planta 4
+AB000021,Region_1      ,Sur
+AB000021,Departamento_1,Zacapa
+AB000021,cantidad      ,24.0
+AB000021,precio        ,225.0
+AB000021,costo         ,159.75
+AB000021,fecha         ,Sat Nov 01 00:00:00 CST 2014
+AB000022,Descripcion   ,Mat de yoga
+AB000022,Linea         ,Deporte
+AB000022,CostoPromedio ,75.0
+AB000022,CodigoCliente ,JM48674
+AB000022,NombreCliente ,Ante LLC
+AB000022,CodigoTienda  ,T24
+AB000022,NombreTienda  ,Tienda 42
+AB000022,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000022,Region        ,Norte
+AB000022,Departamento  ,Jalapa
+AB000022,CodigoPlanta  ,P8
+AB000022,NombrePlanta  ,Planta 8
+AB000022,Region_1      ,Sur
+AB000022,Departamento_1,San Marcos
+AB000022,cantidad      ,13.0
+AB000022,precio        ,112.5
+AB000022,costo         ,101.25
+AB000022,fecha         ,Thu Jun 01 00:00:00 CST 2006
+AB000023,Descripcion   ,Bicicleta estacionaria
+AB000023,Linea         ,Deporte
+AB000023,CostoPromedio ,1575.0
+AB000023,CodigoCliente ,JY64559
+AB000023,NombreCliente ,Orci PC
+AB000023,CodigoTienda  ,T1
+AB000023,NombreTienda  ,Tienda 5
+AB000023,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000023,Region        ,Norte
+AB000023,Departamento  ,Baja Verapaz
+AB000023,CodigoPlanta  ,P6
+AB000023,NombrePlanta  ,Planta 6
+AB000023,Region_1      ,Occidente
+AB000023,Departamento_1,Quetzaltenango
+AB000023,cantidad      ,21.0
+AB000023,precio        ,2362.5
+AB000023,costo         ,1346.625
+AB000023,fecha         ,Thu Apr 01 00:00:00 CST 2010
+AB000024,Descripcion   ,Remadora
+AB000024,Linea         ,Deporte
+AB000024,CostoPromedio ,1350.0
+AB000024,CodigoCliente ,BF51423
+AB000024,NombreCliente ,Tincidunt Tempus Foundation
+AB000024,CodigoTienda  ,T30
+AB000024,NombreTienda  ,Tienda 43
+AB000024,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000024,Region        ,Norte
+AB000024,Departamento  ,Chiquimula
+AB000024,CodigoPlanta  ,P5
+AB000024,NombrePlanta  ,Planta 5
+AB000024,Region_1      ,Norte
+AB000024,Departamento_1,Petén
+AB000024,cantidad      ,7.0
+AB000024,precio        ,2025.0
+AB000024,costo         ,1154.25
+AB000024,fecha         ,Tue Dec 01 00:00:00 CST 2015
+AB000027,Descripcion   ,Pelota de baseball
+AB000027,Linea         ,Deporte
+AB000027,CostoPromedio ,140.0
+AB000027,CodigoCliente ,Z299451
+AB000027,NombreCliente ,Phelan Gross
+AB000027,CodigoTienda  ,T2
+AB000027,NombreTienda  ,Tienda 22
+AB000027,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000027,Region        ,Norte
+AB000027,Departamento  ,Baja Verapaz
+AB000027,CodigoPlanta  ,P10
+AB000027,NombrePlanta  ,Planta 1
+AB000027,Region_1      ,Norte
+AB000027,Departamento_1,Guatemala
+AB000027,cantidad      ,2.0
+AB000027,precio        ,210.0
+AB000027,costo         ,174.3
+AB000027,fecha         ,Thu Jul 01 00:00:00 CST 2010
+AB000027,Descripcion   ,Pelota de baseball
+AB000027,Linea         ,Deporte
+AB000027,CostoPromedio ,140.0
+AB000027,CodigoCliente ,J232613
+AB000027,NombreCliente ,Lucas Norton
+AB000027,CodigoTienda  ,T23
+AB000027,NombreTienda  ,Tienda 42
+AB000027,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000027,Region        ,Norte
+AB000027,Departamento  ,Jalapa
+AB000027,CodigoPlanta  ,P1
+AB000027,NombrePlanta  ,Planta 1
+AB000027,Region_1      ,Norte
+AB000027,Departamento_1,Guatemala
+AB000027,cantidad      ,6.0
+AB000027,precio        ,210.0
+AB000027,costo         ,180.6
+AB000027,fecha         ,Sun Mar 01 00:00:00 CST 2009
+AB000028,Descripcion   ,Bate de baseball
+AB000028,Linea         ,Deporte
+AB000028,CostoPromedio ,180.0
+AB000028,CodigoCliente ,E216444
+AB000028,NombreCliente ,Gemma Barrett
+AB000028,CodigoTienda  ,T19
+AB000028,NombreTienda  ,Tienda 5
+AB000028,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000028,Region        ,Norte
+AB000028,Departamento  ,Baja Verapaz
+AB000028,CodigoPlanta  ,P2
+AB000028,NombrePlanta  ,Planta 2
+AB000028,Region_1      ,Norte
+AB000028,Departamento_1,Escuintla
+AB000028,cantidad      ,1.0
+AB000028,precio        ,270.0
+AB000028,costo         ,261.9
+AB000028,fecha         ,Thu Feb 01 00:00:00 CST 2007
+AB000028,Descripcion   ,Bate de baseball
+AB000028,Linea         ,Deporte
+AB000028,CostoPromedio ,180.0
+AB000028,CodigoCliente ,G687128
+AB000028,NombreCliente ,Nita Wiley
+AB000028,CodigoTienda  ,T33
+AB000028,NombreTienda  ,Tienda 43
+AB000028,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000028,Region        ,Norte
+AB000028,Departamento  ,Chiquimula
+AB000028,CodigoPlanta  ,P4
+AB000028,NombrePlanta  ,Planta 4
+AB000028,Region_1      ,Sur
+AB000028,Departamento_1,Zacapa
+AB000028,cantidad      ,19.0
+AB000028,precio        ,270.0
+AB000028,costo         ,199.8
+AB000028,fecha         ,Sat Oct 01 00:00:00 CST 2016
+AB000028,Descripcion   ,Bate de baseball
+AB000028,Linea         ,Deporte
+AB000028,CostoPromedio ,180.0
+AB000028,CodigoCliente ,P111553
+AB000028,NombreCliente ,Graiden Charles
+AB000028,CodigoTienda  ,T32
+AB000028,NombreTienda  ,Tienda 43
+AB000028,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000028,Region        ,Norte
+AB000028,Departamento  ,Chiquimula
+AB000028,CodigoPlanta  ,P10
+AB000028,NombrePlanta  ,Planta 1
+AB000028,Region_1      ,Norte
+AB000028,Departamento_1,Guatemala
+AB000028,cantidad      ,18.0
+AB000028,precio        ,270.0
+AB000028,costo         ,172.8
+AB000028,fecha         ,Thu May 01 00:00:00 CST 2008
+AB000029,Descripcion   ,Estufa
+AB000029,Linea         ,Electrodomesticos
+AB000029,CostoPromedio ,2399.0
+AB000029,CodigoCliente ,BY33729
+AB000029,NombreCliente ,Lacus Limited
+AB000029,CodigoTienda  ,T31
+AB000029,NombreTienda  ,Tienda 43
+AB000029,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000029,Region        ,Norte
+AB000029,Departamento  ,Chiquimula
+AB000029,CodigoPlanta  ,P9
+AB000029,NombrePlanta  ,Planta 9
+AB000029,Region_1      ,Norte
+AB000029,Departamento_1,Izabal
+AB000029,cantidad      ,5.0
+AB000029,precio        ,3598.5
+AB000029,costo         ,2878.8
+AB000029,fecha         ,Wed Jun 01 00:00:00 CST 2011
+AB000029,Descripcion   ,Estufa
+AB000029,Linea         ,Electrodomesticos
+AB000029,CostoPromedio ,2399.0
+AB000029,CodigoCliente ,FQ39259
+AB000029,NombreCliente ,Accumsan Corporation
+AB000029,CodigoTienda  ,T42
+AB000029,NombreTienda  ,Tienda 43
+AB000029,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000029,Region        ,Norte
+AB000029,Departamento  ,Chiquimula
+AB000029,CodigoPlanta  ,P8
+AB000029,NombrePlanta  ,Planta 8
+AB000029,Region_1      ,Sur
+AB000029,Departamento_1,San Marcos
+AB000029,cantidad      ,10.0
+AB000029,precio        ,3598.5
+AB000029,costo         ,3058.725
+AB000029,fecha         ,Mon Nov 01 00:00:00 CST 2010
+AB000030,Descripcion   ,Refrigeradora
+AB000030,Linea         ,Electrodomesticos
+AB000030,CostoPromedio ,5999.0
+AB000030,CodigoCliente ,J126652
+AB000030,NombreCliente ,Donna Kinney
+AB000030,CodigoTienda  ,T6
+AB000030,NombreTienda  ,Tienda 43
+AB000030,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000030,Region        ,Norte
+AB000030,Departamento  ,Chiquimula
+AB000030,CodigoPlanta  ,P10
+AB000030,NombrePlanta  ,Planta 1
+AB000030,Region_1      ,Norte
+AB000030,Departamento_1,Guatemala
+AB000030,cantidad      ,15.0
+AB000030,precio        ,8998.5
+AB000030,costo         ,4679.22
+AB000030,fecha         ,Wed Jul 01 00:00:00 CST 2015
+AB000030,Descripcion   ,Refrigeradora
+AB000030,Linea         ,Electrodomesticos
+AB000030,CostoPromedio ,5999.0
+AB000030,CodigoCliente ,W884163
+AB000030,NombreCliente ,Raya Hogan
+AB000030,CodigoTienda  ,T38
+AB000030,NombreTienda  ,Tienda 43
+AB000030,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000030,Region        ,Norte
+AB000030,Departamento  ,Chiquimula
+AB000030,CodigoPlanta  ,P8
+AB000030,NombrePlanta  ,Planta 8
+AB000030,Region_1      ,Sur
+AB000030,Departamento_1,San Marcos
+AB000030,cantidad      ,5.0
+AB000030,precio        ,8998.5
+AB000030,costo         ,7288.785
+AB000030,fecha         ,Sun May 01 00:00:00 CST 2005
+AB000030,Descripcion   ,Refrigeradora
+AB000030,Linea         ,Electrodomesticos
+AB000030,CostoPromedio ,5999.0
+AB000030,CodigoCliente ,E157511
+AB000030,NombreCliente ,Carl Schultz
+AB000030,CodigoTienda  ,T6
+AB000030,NombreTienda  ,Tienda 43
+AB000030,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000030,Region        ,Norte
+AB000030,Departamento  ,Chiquimula
+AB000030,CodigoPlanta  ,P7
+AB000030,NombrePlanta  ,Planta 7
+AB000030,Region_1      ,Sur
+AB000030,Departamento_1,Retalhuleu
+AB000030,cantidad      ,4.0
+AB000030,precio        ,8998.5
+AB000030,costo         ,7918.68
+AB000030,fecha         ,Sun Jan 01 00:00:00 CST 2017
+AB000030,Descripcion   ,Refrigeradora
+AB000030,Linea         ,Electrodomesticos
+AB000030,CostoPromedio ,5999.0
+AB000030,CodigoCliente ,O771684
+AB000030,NombreCliente ,Jeremy Taylor
+AB000030,CodigoTienda  ,T9
+AB000030,NombreTienda  ,Tienda 43
+AB000030,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000030,Region        ,Norte
+AB000030,Departamento  ,Chiquimula
+AB000030,CodigoPlanta  ,P1
+AB000030,NombrePlanta  ,Planta 1
+AB000030,Region_1      ,Norte
+AB000030,Departamento_1,Guatemala
+AB000030,cantidad      ,23.0
+AB000030,precio        ,8998.5
+AB000030,costo         ,8728.545
+AB000030,fecha         ,Sun Aug 01 00:00:00 CST 2010
+AB000031,Descripcion   ,Lavadora
+AB000031,Linea         ,Electrodomesticos
+AB000031,CostoPromedio ,3599.0
+AB000031,CodigoCliente ,Z629394
+AB000031,NombreCliente ,David Gentry
+AB000031,CodigoTienda  ,T3
+AB000031,NombreTienda  ,Tienda 43
+AB000031,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000031,Region        ,Norte
+AB000031,Departamento  ,Chiquimula
+AB000031,CodigoPlanta  ,P1
+AB000031,NombrePlanta  ,Planta 1
+AB000031,Region_1      ,Norte
+AB000031,Departamento_1,Guatemala
+AB000031,cantidad      ,13.0
+AB000031,precio        ,5398.5
+AB000031,costo         ,3616.995
+AB000031,fecha         ,Mon Aug 01 00:00:00 CST 2016
+AB000031,Descripcion   ,Lavadora
+AB000031,Linea         ,Electrodomesticos
+AB000031,CostoPromedio ,3599.0
+AB000031,CodigoCliente ,HE39815
+AB000031,NombreCliente ,Nunc Sit Amet Inc.
+AB000031,CodigoTienda  ,T7
+AB000031,NombreTienda  ,Tienda 43
+AB000031,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000031,Region        ,Norte
+AB000031,Departamento  ,Chiquimula
+AB000031,CodigoPlanta  ,P5
+AB000031,NombrePlanta  ,Planta 5
+AB000031,Region_1      ,Norte
+AB000031,Departamento_1,Petén
+AB000031,cantidad      ,13.0
+AB000031,precio        ,5398.5
+AB000031,costo         ,3347.07
+AB000031,fecha         ,Wed Oct 01 00:00:00 CST 2014
+AB000032,Descripcion   ,Secadora de ropa
+AB000032,Linea         ,Electrodomesticos
+AB000032,CostoPromedio ,2840.0
+AB000032,CodigoCliente ,T732299
+AB000032,NombreCliente ,Alfreda Hester
+AB000032,CodigoTienda  ,T26
+AB000032,NombreTienda  ,Tienda 42
+AB000032,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000032,Region        ,Norte
+AB000032,Departamento  ,Jalapa
+AB000032,CodigoPlanta  ,P8
+AB000032,NombrePlanta  ,Planta 8
+AB000032,Region_1      ,Sur
+AB000032,Departamento_1,San Marcos
+AB000032,cantidad      ,23.0
+AB000032,precio        ,4260.0
+AB000032,costo         ,3791.4
+AB000032,fecha         ,Fri Apr 01 00:00:00 CST 2011
+AB000032,Descripcion   ,Secadora de ropa
+AB000032,Linea         ,Electrodomesticos
+AB000032,CostoPromedio ,2840.0
+AB000032,CodigoCliente ,K882178
+AB000032,NombreCliente ,Fletcher Washington
+AB000032,CodigoTienda  ,T9
+AB000032,NombreTienda  ,Tienda 43
+AB000032,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000032,Region        ,Norte
+AB000032,Departamento  ,Chiquimula
+AB000032,CodigoPlanta  ,P9
+AB000032,NombrePlanta  ,Planta 9
+AB000032,Region_1      ,Norte
+AB000032,Departamento_1,Izabal
+AB000032,cantidad      ,15.0
+AB000032,precio        ,4260.0
+AB000032,costo         ,2896.8
+AB000032,fecha         ,Sun Apr 01 00:00:00 CST 2007
+AB000032,Descripcion   ,Secadora de ropa
+AB000032,Linea         ,Electrodomesticos
+AB000032,CostoPromedio ,2840.0
+AB000032,CodigoCliente ,WX37251
+AB000032,NombreCliente ,Pretium Aliquet Metus Incorporated
+AB000032,CodigoTienda  ,T2
+AB000032,NombreTienda  ,Tienda 22
+AB000032,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000032,Region        ,Norte
+AB000032,Departamento  ,Baja Verapaz
+AB000032,CodigoPlanta  ,P3
+AB000032,NombrePlanta  ,Planta 3
+AB000032,Region_1      ,Norte
+AB000032,Departamento_1,El Progreso
+AB000032,cantidad      ,21.0
+AB000032,precio        ,4260.0
+AB000032,costo         ,2896.8
+AB000032,fecha         ,Sun Jan 01 00:00:00 CST 2017
+AB000033,Descripcion   ,"Televisor 40"""
+AB000033,Linea         ,Electrodomesticos
+AB000033,CostoPromedio ,4500.0
+AB000033,CodigoCliente ,XA93251
+AB000033,NombreCliente ,Sed Dolor Fusce Associates
+AB000033,CodigoTienda  ,T28
+AB000033,NombreTienda  ,Tienda 42
+AB000033,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000033,Region        ,Norte
+AB000033,Departamento  ,Jalapa
+AB000033,CodigoPlanta  ,P10
+AB000033,NombrePlanta  ,Planta 1
+AB000033,Region_1      ,Norte
+AB000033,Departamento_1,Guatemala
+AB000033,cantidad      ,22.0
+AB000033,precio        ,6750.0
+AB000033,costo         ,5940.0
+AB000033,fecha         ,Tue Sep 01 00:00:00 CST 2015
+AB000033,Descripcion   ,"Televisor 40"""
+AB000033,Linea         ,Electrodomesticos
+AB000033,CostoPromedio ,4500.0
+AB000033,CodigoCliente ,TN43869
+AB000033,NombreCliente ,Lobortis PC
+AB000033,CodigoTienda  ,T13
+AB000033,NombreTienda  ,Tienda 5
+AB000033,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000033,Region        ,Norte
+AB000033,Departamento  ,Baja Verapaz
+AB000033,CodigoPlanta  ,P8
+AB000033,NombrePlanta  ,Planta 8
+AB000033,Region_1      ,Sur
+AB000033,Departamento_1,San Marcos
+AB000033,cantidad      ,20.0
+AB000033,precio        ,6750.0
+AB000033,costo         ,3645.0
+AB000033,fecha         ,Mon Sep 01 00:00:00 CST 2008
+AB000033,Descripcion   ,"Televisor 40"""
+AB000033,Linea         ,Electrodomesticos
+AB000033,CostoPromedio ,4500.0
+AB000033,CodigoCliente ,XC43143
+AB000033,NombreCliente ,Sem Eget LLP
+AB000033,CodigoTienda  ,T27
+AB000033,NombreTienda  ,Tienda 42
+AB000033,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000033,Region        ,Norte
+AB000033,Departamento  ,Jalapa
+AB000033,CodigoPlanta  ,P4
+AB000033,NombrePlanta  ,Planta 4
+AB000033,Region_1      ,Sur
+AB000033,Departamento_1,Zacapa
+AB000033,cantidad      ,11.0
+AB000033,precio        ,6750.0
+AB000033,costo         ,4387.5
+AB000033,fecha         ,Mon Feb 01 00:00:00 CST 2016
+AB000033,Descripcion   ,"Televisor 40"""
+AB000033,Linea         ,Electrodomesticos
+AB000033,CostoPromedio ,4500.0
+AB000033,CodigoCliente ,GY95757
+AB000033,NombreCliente ,Sagittis Lobortis Mauris PC
+AB000033,CodigoTienda  ,T16
+AB000033,NombreTienda  ,Tienda 5
+AB000033,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000033,Region        ,Norte
+AB000033,Departamento  ,Baja Verapaz
+AB000033,CodigoPlanta  ,P6
+AB000033,NombrePlanta  ,Planta 6
+AB000033,Region_1      ,Occidente
+AB000033,Departamento_1,Quetzaltenango
+AB000033,cantidad      ,16.0
+AB000033,precio        ,6750.0
+AB000033,costo         ,3645.0
+AB000033,fecha         ,Sun Apr 01 00:00:00 CST 2007
+AB000034,Descripcion   ,Minicomponente
+AB000034,Linea         ,Electrodomesticos
+AB000034,CostoPromedio ,1263.0
+AB000034,CodigoCliente ,SV81439
+AB000034,NombreCliente ,Vestibulum PC
+AB000034,CodigoTienda  ,T14
+AB000034,NombreTienda  ,Tienda 5
+AB000034,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000034,Region        ,Norte
+AB000034,Departamento  ,Baja Verapaz
+AB000034,CodigoPlanta  ,P5
+AB000034,NombrePlanta  ,Planta 5
+AB000034,Region_1      ,Norte
+AB000034,Departamento_1,Petén
+AB000034,cantidad      ,23.0
+AB000034,precio        ,1894.5
+AB000034,costo         ,1572.435
+AB000034,fecha         ,Thu Oct 01 00:00:00 CST 2009
+AB000036,Descripcion   ,Amueblado de comedor
+AB000036,Linea         ,Muebles
+AB000036,CostoPromedio ,3600.0
+AB000036,CodigoCliente ,JT41914
+AB000036,NombreCliente ,Morbi Consulting
+AB000036,CodigoTienda  ,T14
+AB000036,NombreTienda  ,Tienda 5
+AB000036,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000036,Region        ,Norte
+AB000036,Departamento  ,Baja Verapaz
+AB000036,CodigoPlanta  ,P10
+AB000036,NombrePlanta  ,Planta 1
+AB000036,Region_1      ,Norte
+AB000036,Departamento_1,Guatemala
+AB000036,cantidad      ,25.0
+AB000036,precio        ,5400.0
+AB000036,costo         ,3024.0
+AB000036,fecha         ,Mon Apr 01 00:00:00 CST 2013
+AB000037,Descripcion   ,Cama
+AB000037,Linea         ,Muebles
+AB000037,CostoPromedio ,4210.0
+AB000037,CodigoCliente ,YW27614
+AB000037,NombreCliente ,Blandit At LLC
+AB000037,CodigoTienda  ,T38
+AB000037,NombreTienda  ,Tienda 43
+AB000037,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000037,Region        ,Norte
+AB000037,Departamento  ,Chiquimula
+AB000037,CodigoPlanta  ,P8
+AB000037,NombrePlanta  ,Planta 8
+AB000037,Region_1      ,Sur
+AB000037,Departamento_1,San Marcos
+AB000037,cantidad      ,24.0
+AB000037,precio        ,6315.0
+AB000037,costo         ,3852.15
+AB000037,fecha         ,Thu Sep 01 00:00:00 CST 2005
+AB000037,Descripcion   ,Cama
+AB000037,Linea         ,Muebles
+AB000037,CostoPromedio ,4210.0
+AB000037,CodigoCliente ,GK73188
+AB000037,NombreCliente ,Pede Company
+AB000037,CodigoTienda  ,T33
+AB000037,NombreTienda  ,Tienda 43
+AB000037,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000037,Region        ,Norte
+AB000037,Departamento  ,Chiquimula
+AB000037,CodigoPlanta  ,P7
+AB000037,NombrePlanta  ,Planta 7
+AB000037,Region_1      ,Sur
+AB000037,Departamento_1,Retalhuleu
+AB000037,cantidad      ,3.0
+AB000037,precio        ,6315.0
+AB000037,costo         ,5999.25
+AB000037,fecha         ,Tue Jan 01 00:00:00 CST 2008
+AB000038,Descripcion   ,Closet
+AB000038,Linea         ,Muebles
+AB000038,CostoPromedio ,3599.0
+AB000038,CodigoCliente ,K918411
+AB000038,NombreCliente ,Ocean Joseph
+AB000038,CodigoTienda  ,T30
+AB000038,NombreTienda  ,Tienda 43
+AB000038,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000038,Region        ,Norte
+AB000038,Departamento  ,Chiquimula
+AB000038,CodigoPlanta  ,P5
+AB000038,NombrePlanta  ,Planta 5
+AB000038,Region_1      ,Norte
+AB000038,Departamento_1,Petén
+AB000038,cantidad      ,8.0
+AB000038,precio        ,5398.5
+AB000038,costo         ,2861.205
+AB000038,fecha         ,Tue Apr 01 00:00:00 CST 2008
+AB000038,Descripcion   ,Closet
+AB000038,Linea         ,Muebles
+AB000038,CostoPromedio ,3599.0
+AB000038,CodigoCliente ,VW35514
+AB000038,NombreCliente ,Odio Inc.
+AB000038,CodigoTienda  ,T41
+AB000038,NombreTienda  ,Tienda 43
+AB000038,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000038,Region        ,Norte
+AB000038,Departamento  ,Chiquimula
+AB000038,CodigoPlanta  ,P7
+AB000038,NombrePlanta  ,Planta 7
+AB000038,Region_1      ,Sur
+AB000038,Departamento_1,Retalhuleu
+AB000038,cantidad      ,11.0
+AB000038,precio        ,5398.5
+AB000038,costo         ,5074.59
+AB000038,fecha         ,Thu Feb 01 00:00:00 CST 2007
+AB000039,Descripcion   ,Mesa de noche
+AB000039,Linea         ,Muebles
+AB000039,CostoPromedio ,560.0
+AB000039,CodigoCliente ,X998772
+AB000039,NombreCliente ,Tatiana Jordan
+AB000039,CodigoTienda  ,T7
+AB000039,NombreTienda  ,Tienda 43
+AB000039,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000039,Region        ,Norte
+AB000039,Departamento  ,Chiquimula
+AB000039,CodigoPlanta  ,P8
+AB000039,NombrePlanta  ,Planta 8
+AB000039,Region_1      ,Sur
+AB000039,Departamento_1,San Marcos
+AB000039,cantidad      ,24.0
+AB000039,precio        ,840.0
+AB000039,costo         ,546.0
+AB000039,fecha         ,Fri Sep 01 00:00:00 CST 2006
+AB000039,Descripcion   ,Mesa de noche
+AB000039,Linea         ,Muebles
+AB000039,CostoPromedio ,560.0
+AB000039,CodigoCliente ,KL25699
+AB000039,NombreCliente ,Ornare Egestas Ligula Limited
+AB000039,CodigoTienda  ,T30
+AB000039,NombreTienda  ,Tienda 43
+AB000039,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000039,Region        ,Norte
+AB000039,Departamento  ,Chiquimula
+AB000039,CodigoPlanta  ,P8
+AB000039,NombrePlanta  ,Planta 8
+AB000039,Region_1      ,Sur
+AB000039,Departamento_1,San Marcos
+AB000039,cantidad      ,15.0
+AB000039,precio        ,840.0
+AB000039,costo         ,562.8
+AB000039,fecha         ,Tue Feb 01 00:00:00 CST 2005
+AB000040,Descripcion   ,Computadora
+AB000040,Linea         ,Electronicos
+AB000040,CostoPromedio ,6550.0
+AB000040,CodigoCliente ,V177975
+AB000040,NombreCliente ,Hakeem Stephens
+AB000040,CodigoTienda  ,T19
+AB000040,NombreTienda  ,Tienda 5
+AB000040,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000040,Region        ,Norte
+AB000040,Departamento  ,Baja Verapaz
+AB000040,CodigoPlanta  ,P3
+AB000040,NombrePlanta  ,Planta 3
+AB000040,Region_1      ,Norte
+AB000040,Departamento_1,El Progreso
+AB000040,cantidad      ,8.0
+AB000040,precio        ,9825.0
+AB000040,costo         ,6779.25
+AB000040,fecha         ,Wed Mar 01 00:00:00 CST 2017
+AB000040,Descripcion   ,Computadora
+AB000040,Linea         ,Electronicos
+AB000040,CostoPromedio ,6550.0
+AB000040,CodigoCliente ,R586843
+AB000040,NombreCliente ,Evangeline Dorsey
+AB000040,CodigoTienda  ,T16
+AB000040,NombreTienda  ,Tienda 5
+AB000040,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000040,Region        ,Norte
+AB000040,Departamento  ,Baja Verapaz
+AB000040,CodigoPlanta  ,P1
+AB000040,NombrePlanta  ,Planta 1
+AB000040,Region_1      ,Norte
+AB000040,Departamento_1,Guatemala
+AB000040,cantidad      ,14.0
+AB000040,precio        ,9825.0
+AB000040,costo         ,7958.25
+AB000040,fecha         ,Fri Jul 01 00:00:00 CST 2011
+AB000040,Descripcion   ,Computadora
+AB000040,Linea         ,Electronicos
+AB000040,CostoPromedio ,6550.0
+AB000040,CodigoCliente ,FG13627
+AB000040,NombreCliente ,Nulla Interdum Curabitur Incorporated
+AB000040,CodigoTienda  ,T12
+AB000040,NombreTienda  ,Tienda 5
+AB000040,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000040,Region        ,Norte
+AB000040,Departamento  ,Baja Verapaz
+AB000040,CodigoPlanta  ,P3
+AB000040,NombrePlanta  ,Planta 3
+AB000040,Region_1      ,Norte
+AB000040,Departamento_1,El Progreso
+AB000040,cantidad      ,21.0
+AB000040,precio        ,9825.0
+AB000040,costo         ,7761.75
+AB000040,fecha         ,Tue Dec 01 00:00:00 CST 2015
+AB000041,Descripcion   ,Laptop HP
+AB000041,Linea         ,Electronicos
+AB000041,CostoPromedio ,5625.0
+AB000041,CodigoCliente ,MX75714
+AB000041,NombreCliente ,Duis Company
+AB000041,CodigoTienda  ,T2
+AB000041,NombreTienda  ,Tienda 22
+AB000041,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000041,Region        ,Norte
+AB000041,Departamento  ,Baja Verapaz
+AB000041,CodigoPlanta  ,P9
+AB000041,NombrePlanta  ,Planta 9
+AB000041,Region_1      ,Norte
+AB000041,Departamento_1,Izabal
+AB000041,cantidad      ,19.0
+AB000041,precio        ,8437.5
+AB000041,costo         ,6243.75
+AB000041,fecha         ,Sun Mar 01 00:00:00 CST 2009
+AB000042,Descripcion   ,Laptop DELL
+AB000042,Linea         ,Electronicos
+AB000042,CostoPromedio ,5400.0
+AB000042,CodigoCliente ,W559969
+AB000042,NombreCliente ,Amal Hatfield
+AB000042,CodigoTienda  ,T43
+AB000042,NombreTienda  ,Tienda 43
+AB000042,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000042,Region        ,Norte
+AB000042,Departamento  ,Chiquimula
+AB000042,CodigoPlanta  ,P7
+AB000042,NombrePlanta  ,Planta 7
+AB000042,Region_1      ,Sur
+AB000042,Departamento_1,Retalhuleu
+AB000042,cantidad      ,16.0
+AB000042,precio        ,8100.0
+AB000042,costo         ,7938.0
+AB000042,fecha         ,Mon Mar 01 00:00:00 CST 2010
+AB000042,Descripcion   ,Laptop DELL
+AB000042,Linea         ,Electronicos
+AB000042,CostoPromedio ,5400.0
+AB000042,CodigoCliente ,B161629
+AB000042,NombreCliente ,Odysseus Lara
+AB000042,CodigoTienda  ,T37
+AB000042,NombreTienda  ,Tienda 43
+AB000042,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000042,Region        ,Norte
+AB000042,Departamento  ,Chiquimula
+AB000042,CodigoPlanta  ,P7
+AB000042,NombrePlanta  ,Planta 7
+AB000042,Region_1      ,Sur
+AB000042,Departamento_1,Retalhuleu
+AB000042,cantidad      ,7.0
+AB000042,precio        ,8100.0
+AB000042,costo         ,7047.0
+AB000042,fecha         ,Wed Feb 01 00:00:00 CST 2006
+AB000042,Descripcion   ,Laptop DELL
+AB000042,Linea         ,Electronicos
+AB000042,CostoPromedio ,5400.0
+AB000042,CodigoCliente ,P476591
+AB000042,NombreCliente ,Clarke Delaney
+AB000042,CodigoTienda  ,T13
+AB000042,NombreTienda  ,Tienda 5
+AB000042,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000042,Region        ,Norte
+AB000042,Departamento  ,Baja Verapaz
+AB000042,CodigoPlanta  ,P2
+AB000042,NombrePlanta  ,Planta 2
+AB000042,Region_1      ,Norte
+AB000042,Departamento_1,Escuintla
+AB000042,cantidad      ,1.0
+AB000042,precio        ,8100.0
+AB000042,costo         ,4455.0
+AB000042,fecha         ,Thu Mar 01 00:00:00 CST 2012
+AB000043,Descripcion   ,Telefono Huawei
+AB000043,Linea         ,Electronicos
+AB000043,CostoPromedio ,2890.0
+AB000043,CodigoCliente ,K591485
+AB000043,NombreCliente ,Oren Lamb
+AB000043,CodigoTienda  ,T43
+AB000043,NombreTienda  ,Tienda 43
+AB000043,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000043,Region        ,Norte
+AB000043,Departamento  ,Chiquimula
+AB000043,CodigoPlanta  ,P9
+AB000043,NombrePlanta  ,Planta 9
+AB000043,Region_1      ,Norte
+AB000043,Departamento_1,Izabal
+AB000043,cantidad      ,22.0
+AB000043,precio        ,4335.0
+AB000043,costo         ,4118.25
+AB000043,fecha         ,Thu Jun 01 00:00:00 CST 2006
+AB000043,Descripcion   ,Telefono Huawei
+AB000043,Linea         ,Electronicos
+AB000043,CostoPromedio ,2890.0
+AB000043,CodigoCliente ,TT58856
+AB000043,NombreCliente ,Vivamus Nisi Limited
+AB000043,CodigoTienda  ,T30
+AB000043,NombreTienda  ,Tienda 43
+AB000043,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000043,Region        ,Norte
+AB000043,Departamento  ,Chiquimula
+AB000043,CodigoPlanta  ,P9
+AB000043,NombrePlanta  ,Planta 9
+AB000043,Region_1      ,Norte
+AB000043,Departamento_1,Izabal
+AB000043,cantidad      ,12.0
+AB000043,precio        ,4335.0
+AB000043,costo         ,4161.6
+AB000043,fecha         ,Tue Nov 01 00:00:00 CST 2016
+AB000044,Descripcion   ,212 VIP CLUB CAROLINA HERRERA DAMA TOILETTE 80
+AB000044,Linea         ,Perfumeria
+AB000044,CostoPromedio ,916.0
+AB000044,CodigoCliente ,YV48515
+AB000044,NombreCliente ,Euismod Enim Ltd
+AB000044,CodigoTienda  ,T26
+AB000044,NombreTienda  ,Tienda 42
+AB000044,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000044,Region        ,Norte
+AB000044,Departamento  ,Jalapa
+AB000044,CodigoPlanta  ,P2
+AB000044,NombrePlanta  ,Planta 2
+AB000044,Region_1      ,Norte
+AB000044,Departamento_1,Escuintla
+AB000044,cantidad      ,3.0
+AB000044,precio        ,1374.0
+AB000044,costo         ,1030.5
+AB000044,fecha         ,Sat Jul 01 00:00:00 CST 2017
+AB000044,Descripcion   ,212 VIP CLUB CAROLINA HERRERA DAMA TOILETTE 80
+AB000044,Linea         ,Perfumeria
+AB000044,CostoPromedio ,916.0
+AB000044,CodigoCliente ,FX58525
+AB000044,NombreCliente ,Nunc Consulting
+AB000044,CodigoTienda  ,T32
+AB000044,NombreTienda  ,Tienda 43
+AB000044,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000044,Region        ,Norte
+AB000044,Departamento  ,Chiquimula
+AB000044,CodigoPlanta  ,P4
+AB000044,NombrePlanta  ,Planta 4
+AB000044,Region_1      ,Sur
+AB000044,Departamento_1,Zacapa
+AB000044,cantidad      ,15.0
+AB000044,precio        ,1374.0
+AB000044,costo         ,824.4
+AB000044,fecha         ,Sat May 01 00:00:00 CST 2010
+AB000046,Descripcion   ,212 VIP WILD PARTY CAROLINA HERRERA DAMA PERFUME 100
+AB000046,Linea         ,Perfumeria
+AB000046,CostoPromedio ,980.0
+AB000046,CodigoCliente ,H781414
+AB000046,NombreCliente ,September Allison
+AB000046,CodigoTienda  ,T8
+AB000046,NombreTienda  ,Tienda 43
+AB000046,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000046,Region        ,Norte
+AB000046,Departamento  ,Chiquimula
+AB000046,CodigoPlanta  ,P10
+AB000046,NombrePlanta  ,Planta 1
+AB000046,Region_1      ,Norte
+AB000046,Departamento_1,Guatemala
+AB000046,cantidad      ,14.0
+AB000046,precio        ,1470.0
+AB000046,costo         ,999.5999999999999
+AB000046,fecha         ,Tue Mar 01 00:00:00 CST 2016
+AB000046,Descripcion   ,212 VIP WILD PARTY CAROLINA HERRERA DAMA PERFUME 100
+AB000046,Linea         ,Perfumeria
+AB000046,CostoPromedio ,980.0
+AB000046,CodigoCliente ,T359581
+AB000046,NombreCliente ,Cecilia Stevenson
+AB000046,CodigoTienda  ,T38
+AB000046,NombreTienda  ,Tienda 43
+AB000046,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000046,Region        ,Norte
+AB000046,Departamento  ,Chiquimula
+AB000046,CodigoPlanta  ,P5
+AB000046,NombrePlanta  ,Planta 5
+AB000046,Region_1      ,Norte
+AB000046,Departamento_1,Petén
+AB000046,cantidad      ,24.0
+AB000046,precio        ,1470.0
+AB000046,costo         ,970.2
+AB000046,fecha         ,Tue Jan 01 00:00:00 CST 2008
+AB000047,Descripcion   ,24 FAUBOURY HERMES DAMA TOILETTE 100
+AB000047,Linea         ,Perfumeria
+AB000047,CostoPromedio ,1250.0
+AB000047,CodigoCliente ,L841256
+AB000047,NombreCliente ,Kitra Hood
+AB000047,CodigoTienda  ,T40
+AB000047,NombreTienda  ,Tienda 43
+AB000047,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000047,Region        ,Norte
+AB000047,Departamento  ,Chiquimula
+AB000047,CodigoPlanta  ,P10
+AB000047,NombrePlanta  ,Planta 1
+AB000047,Region_1      ,Norte
+AB000047,Departamento_1,Guatemala
+AB000047,cantidad      ,21.0
+AB000047,precio        ,1875.0
+AB000047,costo         ,1762.5
+AB000047,fecha         ,Mon Aug 01 00:00:00 CST 2016
+AB000047,Descripcion   ,24 FAUBOURY HERMES DAMA TOILETTE 100
+AB000047,Linea         ,Perfumeria
+AB000047,CostoPromedio ,1250.0
+AB000047,CodigoCliente ,VV53934
+AB000047,NombreCliente ,Iaculis Lacus Pede Corp.
+AB000047,CodigoTienda  ,T2
+AB000047,NombreTienda  ,Tienda 22
+AB000047,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000047,Region        ,Norte
+AB000047,Departamento  ,Baja Verapaz
+AB000047,CodigoPlanta  ,P10
+AB000047,NombrePlanta  ,Planta 1
+AB000047,Region_1      ,Norte
+AB000047,Departamento_1,Guatemala
+AB000047,cantidad      ,9.0
+AB000047,precio        ,1875.0
+AB000047,costo         ,1818.75
+AB000047,fecha         ,Tue Dec 01 00:00:00 CST 2015
+AB000047,Descripcion   ,24 FAUBOURY HERMES DAMA TOILETTE 100
+AB000047,Linea         ,Perfumeria
+AB000047,CostoPromedio ,1250.0
+AB000047,CodigoCliente ,CL79515
+AB000047,NombreCliente ,Amet Nulla Donec LLP
+AB000047,CodigoTienda  ,T18
+AB000047,NombreTienda  ,Tienda 5
+AB000047,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000047,Region        ,Norte
+AB000047,Departamento  ,Baja Verapaz
+AB000047,CodigoPlanta  ,P8
+AB000047,NombrePlanta  ,Planta 8
+AB000047,Region_1      ,Sur
+AB000047,Departamento_1,San Marcos
+AB000047,cantidad      ,12.0
+AB000047,precio        ,1875.0
+AB000047,costo         ,1068.75
+AB000047,fecha         ,Thu May 01 00:00:00 CST 2008
+AB000048,Descripcion   ,24K BRILLIANT GOLD MICHAEL KORS DAMA PERFUME 100
+AB000048,Linea         ,Perfumeria
+AB000048,CostoPromedio ,1250.0
+AB000048,CodigoCliente ,X138467
+AB000048,NombreCliente ,Fitzgerald Park
+AB000048,CodigoTienda  ,T20
+AB000048,NombreTienda  ,Tienda 42
+AB000048,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000048,Region        ,Norte
+AB000048,Departamento  ,Jalapa
+AB000048,CodigoPlanta  ,P8
+AB000048,NombrePlanta  ,Planta 8
+AB000048,Region_1      ,Sur
+AB000048,Departamento_1,San Marcos
+AB000048,cantidad      ,14.0
+AB000048,precio        ,1875.0
+AB000048,costo         ,1050.0
+AB000048,fecha         ,Tue Mar 01 00:00:00 CST 2016
+AB000048,Descripcion   ,24K BRILLIANT GOLD MICHAEL KORS DAMA PERFUME 100
+AB000048,Linea         ,Perfumeria
+AB000048,CostoPromedio ,1250.0
+AB000048,CodigoCliente ,D462748
+AB000048,NombreCliente ,Chase Russell
+AB000048,CodigoTienda  ,T28
+AB000048,NombreTienda  ,Tienda 42
+AB000048,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000048,Region        ,Norte
+AB000048,Departamento  ,Jalapa
+AB000048,CodigoPlanta  ,P1
+AB000048,NombrePlanta  ,Planta 1
+AB000048,Region_1      ,Norte
+AB000048,Departamento_1,Guatemala
+AB000048,cantidad      ,22.0
+AB000048,precio        ,1875.0
+AB000048,costo         ,1818.75
+AB000048,fecha         ,Wed Feb 01 00:00:00 CST 2012
+AB000049,Descripcion   ,273 FRED HAYMAN ?S DAMA PERFUME 75
+AB000049,Linea         ,Perfumeria
+AB000049,CostoPromedio ,431.0
+AB000049,CodigoCliente ,T249684
+AB000049,NombreCliente ,Channing Sawyer
+AB000049,CodigoTienda  ,T40
+AB000049,NombreTienda  ,Tienda 43
+AB000049,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000049,Region        ,Norte
+AB000049,Departamento  ,Chiquimula
+AB000049,CodigoPlanta  ,P10
+AB000049,NombrePlanta  ,Planta 1
+AB000049,Region_1      ,Norte
+AB000049,Departamento_1,Guatemala
+AB000049,cantidad      ,19.0
+AB000049,precio        ,646.5
+AB000049,costo         ,633.57
+AB000049,fecha         ,Sun Apr 01 00:00:00 CST 2007
+AB000049,Descripcion   ,273 FRED HAYMAN ?S DAMA PERFUME 75
+AB000049,Linea         ,Perfumeria
+AB000049,CostoPromedio ,431.0
+AB000049,CodigoCliente ,LE99274
+AB000049,NombreCliente ,Curabitur Corporation
+AB000049,CodigoTienda  ,T24
+AB000049,NombreTienda  ,Tienda 42
+AB000049,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000049,Region        ,Norte
+AB000049,Departamento  ,Jalapa
+AB000049,CodigoPlanta  ,P1
+AB000049,NombrePlanta  ,Planta 1
+AB000049,Region_1      ,Norte
+AB000049,Departamento_1,Guatemala
+AB000049,cantidad      ,14.0
+AB000049,precio        ,646.5
+AB000049,costo         ,594.78
+AB000049,fecha         ,Thu Oct 01 00:00:00 CST 2015
+AB000050,Descripcion   ,273 RED FRED HAYMAN ?S DAMA PERFUME 75
+AB000050,Linea         ,Perfumeria
+AB000050,CostoPromedio ,355.0
+AB000050,CodigoCliente ,P656971
+AB000050,NombreCliente ,Nina Odonnell
+AB000050,CodigoTienda  ,T12
+AB000050,NombreTienda  ,Tienda 5
+AB000050,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000050,Region        ,Norte
+AB000050,Departamento  ,Baja Verapaz
+AB000050,CodigoPlanta  ,P5
+AB000050,NombrePlanta  ,Planta 5
+AB000050,Region_1      ,Norte
+AB000050,Departamento_1,Petén
+AB000050,cantidad      ,9.0
+AB000050,precio        ,532.5
+AB000050,costo         ,415.35
+AB000050,fecha         ,Fri Jul 01 00:00:00 CST 2011
+AB000050,Descripcion   ,273 RED FRED HAYMAN ?S DAMA PERFUME 75
+AB000050,Linea         ,Perfumeria
+AB000050,CostoPromedio ,355.0
+AB000050,CodigoCliente ,TR98357
+AB000050,NombreCliente ,Dui Fusce LLC
+AB000050,CodigoTienda  ,T7
+AB000050,NombreTienda  ,Tienda 43
+AB000050,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000050,Region        ,Norte
+AB000050,Departamento  ,Chiquimula
+AB000050,CodigoPlanta  ,P6
+AB000050,NombrePlanta  ,Planta 6
+AB000050,Region_1      ,Occidente
+AB000050,Departamento_1,Quetzaltenango
+AB000050,cantidad      ,16.0
+AB000050,precio        ,532.5
+AB000050,costo         ,447.3
+AB000050,fecha         ,Thu Dec 01 00:00:00 CST 2005
+AB000050,Descripcion   ,273 RED FRED HAYMAN ?S DAMA PERFUME 75
+AB000050,Linea         ,Perfumeria
+AB000050,CostoPromedio ,355.0
+AB000050,CodigoCliente ,LQ88229
+AB000050,NombreCliente ,Augue Ut Lacus Associates
+AB000050,CodigoTienda  ,T34
+AB000050,NombreTienda  ,Tienda 43
+AB000050,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000050,Region        ,Norte
+AB000050,Departamento  ,Chiquimula
+AB000050,CodigoPlanta  ,P3
+AB000050,NombrePlanta  ,Planta 3
+AB000050,Region_1      ,Norte
+AB000050,Departamento_1,El Progreso
+AB000050,cantidad      ,19.0
+AB000050,precio        ,532.5
+AB000050,costo         ,521.85
+AB000050,fecha         ,Thu Dec 01 00:00:00 CST 2011
+AB000051,Descripcion   ,360 PERRY ELLIS DAMA TOILETTE 100
+AB000051,Linea         ,Perfumeria
+AB000051,CostoPromedio ,390.0
+AB000051,CodigoCliente ,N349336
+AB000051,NombreCliente ,Raven Henderson
+AB000051,CodigoTienda  ,T13
+AB000051,NombreTienda  ,Tienda 5
+AB000051,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000051,Region        ,Norte
+AB000051,Departamento  ,Baja Verapaz
+AB000051,CodigoPlanta  ,P7
+AB000051,NombrePlanta  ,Planta 7
+AB000051,Region_1      ,Sur
+AB000051,Departamento_1,Retalhuleu
+AB000051,cantidad      ,21.0
+AB000051,precio        ,585.0
+AB000051,costo         ,479.7
+AB000051,fecha         ,Fri Jan 01 00:00:00 CST 2010
+AB000051,Descripcion   ,360 PERRY ELLIS DAMA TOILETTE 100
+AB000051,Linea         ,Perfumeria
+AB000051,CostoPromedio ,390.0
+AB000051,CodigoCliente ,E628927
+AB000051,NombreCliente ,Alma Ballard
+AB000051,CodigoTienda  ,T34
+AB000051,NombreTienda  ,Tienda 43
+AB000051,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000051,Region        ,Norte
+AB000051,Departamento  ,Chiquimula
+AB000051,CodigoPlanta  ,P3
+AB000051,NombrePlanta  ,Planta 3
+AB000051,Region_1      ,Norte
+AB000051,Departamento_1,El Progreso
+AB000051,cantidad      ,15.0
+AB000051,precio        ,585.0
+AB000051,costo         ,497.25
+AB000051,fecha         ,Tue Apr 01 00:00:00 CST 2014
+AB000051,Descripcion   ,360 PERRY ELLIS DAMA TOILETTE 100
+AB000051,Linea         ,Perfumeria
+AB000051,CostoPromedio ,390.0
+AB000051,CodigoCliente ,F298425
+AB000051,NombreCliente ,Pamela Richard
+AB000051,CodigoTienda  ,T7
+AB000051,NombreTienda  ,Tienda 43
+AB000051,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000051,Region        ,Norte
+AB000051,Departamento  ,Chiquimula
+AB000051,CodigoPlanta  ,P10
+AB000051,NombrePlanta  ,Planta 1
+AB000051,Region_1      ,Norte
+AB000051,Departamento_1,Guatemala
+AB000051,cantidad      ,2.0
+AB000051,precio        ,585.0
+AB000051,costo         ,362.7
+AB000051,fecha         ,Sun Jun 01 00:00:00 CST 2014
+AB000051,Descripcion   ,360 PERRY ELLIS DAMA TOILETTE 100
+AB000051,Linea         ,Perfumeria
+AB000051,CostoPromedio ,390.0
+AB000051,CodigoCliente ,SV76623
+AB000051,NombreCliente ,Sem LLC
+AB000051,CodigoTienda  ,T28
+AB000051,NombreTienda  ,Tienda 42
+AB000051,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000051,Region        ,Norte
+AB000051,Departamento  ,Jalapa
+AB000051,CodigoPlanta  ,P6
+AB000051,NombrePlanta  ,Planta 6
+AB000051,Region_1      ,Occidente
+AB000051,Departamento_1,Quetzaltenango
+AB000051,cantidad      ,15.0
+AB000051,precio        ,585.0
+AB000051,costo         ,327.6
+AB000051,fecha         ,Sun Dec 01 00:00:00 CST 2013
+AB000051,Descripcion   ,360 PERRY ELLIS DAMA TOILETTE 100
+AB000051,Linea         ,Perfumeria
+AB000051,CostoPromedio ,390.0
+AB000051,CodigoCliente ,BU53438
+AB000051,NombreCliente ,Luctus Company
+AB000051,CodigoTienda  ,T2
+AB000051,NombreTienda  ,Tienda 22
+AB000051,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000051,Region        ,Norte
+AB000051,Departamento  ,Baja Verapaz
+AB000051,CodigoPlanta  ,P7
+AB000051,NombrePlanta  ,Planta 7
+AB000051,Region_1      ,Sur
+AB000051,Departamento_1,Retalhuleu
+AB000051,cantidad      ,5.0
+AB000051,precio        ,585.0
+AB000051,costo         ,532.35
+AB000051,fecha         ,Sat Jul 01 00:00:00 CST 2017
+AB000052,Descripcion   ,360 BLACK PERRY ELLIS DAMA PERFUME 100
+AB000052,Linea         ,Perfumeria
+AB000052,CostoPromedio ,376.0
+AB000052,CodigoCliente ,NW63423
+AB000052,NombreCliente ,Pellentesque A Ltd
+AB000052,CodigoTienda  ,T42
+AB000052,NombreTienda  ,Tienda 43
+AB000052,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000052,Region        ,Norte
+AB000052,Departamento  ,Chiquimula
+AB000052,CodigoPlanta  ,P3
+AB000052,NombrePlanta  ,Planta 3
+AB000052,Region_1      ,Norte
+AB000052,Departamento_1,El Progreso
+AB000052,cantidad      ,13.0
+AB000052,precio        ,564.0
+AB000052,costo         ,298.92
+AB000052,fecha         ,Tue Jul 01 00:00:00 CST 2008
+AB000052,Descripcion   ,360 BLACK PERRY ELLIS DAMA PERFUME 100
+AB000052,Linea         ,Perfumeria
+AB000052,CostoPromedio ,376.0
+AB000052,CodigoCliente ,LB17499
+AB000052,NombreCliente ,Sed Dictum Ltd
+AB000052,CodigoTienda  ,T40
+AB000052,NombreTienda  ,Tienda 43
+AB000052,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000052,Region        ,Norte
+AB000052,Departamento  ,Chiquimula
+AB000052,CodigoPlanta  ,P3
+AB000052,NombrePlanta  ,Planta 3
+AB000052,Region_1      ,Norte
+AB000052,Departamento_1,El Progreso
+AB000052,cantidad      ,22.0
+AB000052,precio        ,564.0
+AB000052,costo         ,445.56
+AB000052,fecha         ,Tue Jun 01 00:00:00 CST 2010
+AB000053,Descripcion   ,360 BLUE PERRY ELLIS DAMA PERFUME 100
+AB000053,Linea         ,Perfumeria
+AB000053,CostoPromedio ,455.0
+AB000053,CodigoCliente ,W344252
+AB000053,NombreCliente ,Aaron Salazar
+AB000053,CodigoTienda  ,T32
+AB000053,NombreTienda  ,Tienda 43
+AB000053,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000053,Region        ,Norte
+AB000053,Departamento  ,Chiquimula
+AB000053,CodigoPlanta  ,P3
+AB000053,NombrePlanta  ,Planta 3
+AB000053,Region_1      ,Norte
+AB000053,Departamento_1,El Progreso
+AB000053,cantidad      ,24.0
+AB000053,precio        ,682.5
+AB000053,costo         ,498.225
+AB000053,fecha         ,Fri Oct 01 00:00:00 CST 2010
+AB000053,Descripcion   ,360 BLUE PERRY ELLIS DAMA PERFUME 100
+AB000053,Linea         ,Perfumeria
+AB000053,CostoPromedio ,455.0
+AB000053,CodigoCliente ,PP58745
+AB000053,NombreCliente ,Nostra Per Inceptos Foundation
+AB000053,CodigoTienda  ,T28
+AB000053,NombreTienda  ,Tienda 42
+AB000053,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000053,Region        ,Norte
+AB000053,Departamento  ,Jalapa
+AB000053,CodigoPlanta  ,P4
+AB000053,NombrePlanta  ,Planta 4
+AB000053,Region_1      ,Sur
+AB000053,Departamento_1,Zacapa
+AB000053,cantidad      ,9.0
+AB000053,precio        ,682.5
+AB000053,costo         ,395.85
+AB000053,fecha         ,Sat Oct 01 00:00:00 CST 2016
+AB000054,Descripcion   ,360 COLLECTION PERRY ELLIS DAMA PERFUME 100
+AB000054,Linea         ,Perfumeria
+AB000054,CostoPromedio ,571.0
+AB000054,CodigoCliente ,ZJ26397
+AB000054,NombreCliente ,Vivamus Foundation
+AB000054,CodigoTienda  ,T18
+AB000054,NombreTienda  ,Tienda 5
+AB000054,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000054,Region        ,Norte
+AB000054,Departamento  ,Baja Verapaz
+AB000054,CodigoPlanta  ,P10
+AB000054,NombrePlanta  ,Planta 1
+AB000054,Region_1      ,Norte
+AB000054,Departamento_1,Guatemala
+AB000054,cantidad      ,4.0
+AB000054,precio        ,856.5
+AB000054,costo         ,522.4649999999999
+AB000054,fecha         ,Thu Mar 01 00:00:00 CST 2012
+AB000055,Descripcion   ,360 CORAL PERRY ELLIS DAMA PERFUME 100
+AB000055,Linea         ,Perfumeria
+AB000055,CostoPromedio ,540.0
+AB000055,CodigoCliente ,A583229
+AB000055,NombreCliente ,Conan Hernandez
+AB000055,CodigoTienda  ,T2
+AB000055,NombreTienda  ,Tienda 22
+AB000055,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000055,Region        ,Norte
+AB000055,Departamento  ,Baja Verapaz
+AB000055,CodigoPlanta  ,P8
+AB000055,NombrePlanta  ,Planta 8
+AB000055,Region_1      ,Sur
+AB000055,Departamento_1,San Marcos
+AB000055,cantidad      ,23.0
+AB000055,precio        ,810.0
+AB000055,costo         ,486.0
+AB000055,fecha         ,Mon Feb 01 00:00:00 CST 2010
+AB000055,Descripcion   ,360 CORAL PERRY ELLIS DAMA PERFUME 100
+AB000055,Linea         ,Perfumeria
+AB000055,CostoPromedio ,540.0
+AB000055,CodigoCliente ,CG71283
+AB000055,NombreCliente ,Nonummy Ut Corp.
+AB000055,CodigoTienda  ,T40
+AB000055,NombreTienda  ,Tienda 43
+AB000055,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000055,Region        ,Norte
+AB000055,Departamento  ,Chiquimula
+AB000055,CodigoPlanta  ,P8
+AB000055,NombrePlanta  ,Planta 8
+AB000055,Region_1      ,Sur
+AB000055,Departamento_1,San Marcos
+AB000055,cantidad      ,10.0
+AB000055,precio        ,810.0
+AB000055,costo         ,429.3
+AB000055,fecha         ,Sat Jul 01 00:00:00 CST 2017
+AB000056,Descripcion   ,360 PINK PERRY ELLIS DAMA PERFUME 100
+AB000056,Linea         ,Perfumeria
+AB000056,CostoPromedio ,475.0
+AB000056,CodigoCliente ,L276535
+AB000056,NombreCliente ,Josiah David
+AB000056,CodigoTienda  ,T3
+AB000056,NombreTienda  ,Tienda 43
+AB000056,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000056,Region        ,Norte
+AB000056,Departamento  ,Chiquimula
+AB000056,CodigoPlanta  ,P7
+AB000056,NombrePlanta  ,Planta 7
+AB000056,Region_1      ,Sur
+AB000056,Departamento_1,Retalhuleu
+AB000056,cantidad      ,23.0
+AB000056,precio        ,712.5
+AB000056,costo         ,520.125
+AB000056,fecha         ,Fri Feb 01 00:00:00 CST 2008
+AB000057,Descripcion   ,360 PURPLE PERRY ELLIS DAMA PERFUME 100
+AB000057,Linea         ,Perfumeria
+AB000057,CostoPromedio ,495.0
+AB000057,CodigoCliente ,Z257474
+AB000057,NombreCliente ,Colleen Noble
+AB000057,CodigoTienda  ,T11
+AB000057,NombreTienda  ,Tienda 5
+AB000057,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000057,Region        ,Norte
+AB000057,Departamento  ,Baja Verapaz
+AB000057,CodigoPlanta  ,P2
+AB000057,NombrePlanta  ,Planta 2
+AB000057,Region_1      ,Norte
+AB000057,Departamento_1,Escuintla
+AB000057,cantidad      ,4.0
+AB000057,precio        ,742.5
+AB000057,costo         ,683.1
+AB000057,fecha         ,Fri Feb 01 00:00:00 CST 2013
+AB000058,Descripcion   ,360 RED PERRY ELLIS DAMA PERFUME 100
+AB000058,Linea         ,Perfumeria
+AB000058,CostoPromedio ,391.0
+AB000058,CodigoCliente ,B867287
+AB000058,NombreCliente ,Jenna Barber
+AB000058,CodigoTienda  ,T25
+AB000058,NombreTienda  ,Tienda 42
+AB000058,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000058,Region        ,Norte
+AB000058,Departamento  ,Jalapa
+AB000058,CodigoPlanta  ,P3
+AB000058,NombrePlanta  ,Planta 3
+AB000058,Region_1      ,Norte
+AB000058,Departamento_1,El Progreso
+AB000058,cantidad      ,6.0
+AB000058,precio        ,586.5
+AB000058,costo         ,422.28
+AB000058,fecha         ,Sat Nov 01 00:00:00 CST 2014
+AB000059,Descripcion   ,360 WHITE PERRY ELLIS DAMA PERFUME 100
+AB000059,Linea         ,Perfumeria
+AB000059,CostoPromedio ,441.0
+AB000059,CodigoCliente ,ZQ96116
+AB000059,NombreCliente ,Velit Corporation
+AB000059,CodigoTienda  ,T13
+AB000059,NombreTienda  ,Tienda 5
+AB000059,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000059,Region        ,Norte
+AB000059,Departamento  ,Baja Verapaz
+AB000059,CodigoPlanta  ,P1
+AB000059,NombrePlanta  ,Planta 1
+AB000059,Region_1      ,Norte
+AB000059,Departamento_1,Guatemala
+AB000059,cantidad      ,13.0
+AB000059,precio        ,661.5
+AB000059,costo         ,429.975
+AB000059,fecha         ,Fri May 01 00:00:00 CST 2015
+AB000060,Descripcion   ,5TH AVENUE ELIZABETH ARDEN DAMA PERFUME 125
+AB000060,Linea         ,Perfumeria
+AB000060,CostoPromedio ,425.0
+AB000060,CodigoCliente ,WQ97984
+AB000060,NombreCliente ,Egestas Urna Justo Corp.
+AB000060,CodigoTienda  ,T10
+AB000060,NombreTienda  ,Tienda 5
+AB000060,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000060,Region        ,Norte
+AB000060,Departamento  ,Baja Verapaz
+AB000060,CodigoPlanta  ,P6
+AB000060,NombrePlanta  ,Planta 6
+AB000060,Region_1      ,Occidente
+AB000060,Departamento_1,Quetzaltenango
+AB000060,cantidad      ,6.0
+AB000060,precio        ,637.5
+AB000060,costo         ,522.75
+AB000060,fecha         ,Fri May 01 00:00:00 CST 2015
+AB000060,Descripcion   ,5TH AVENUE ELIZABETH ARDEN DAMA PERFUME 125
+AB000060,Linea         ,Perfumeria
+AB000060,CostoPromedio ,425.0
+AB000060,CodigoCliente ,RE72959
+AB000060,NombreCliente ,Adipiscing Ligula Foundation
+AB000060,CodigoTienda  ,T17
+AB000060,NombreTienda  ,Tienda 5
+AB000060,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000060,Region        ,Norte
+AB000060,Departamento  ,Baja Verapaz
+AB000060,CodigoPlanta  ,P10
+AB000060,NombrePlanta  ,Planta 1
+AB000060,Region_1      ,Norte
+AB000060,Departamento_1,Guatemala
+AB000060,cantidad      ,22.0
+AB000060,precio        ,637.5
+AB000060,costo         ,612.0
+AB000060,fecha         ,Mon Dec 01 00:00:00 CST 2014
+AB000060,Descripcion   ,5TH AVENUE ELIZABETH ARDEN DAMA PERFUME 125
+AB000060,Linea         ,Perfumeria
+AB000060,CostoPromedio ,425.0
+AB000060,CodigoCliente ,FF93811
+AB000060,NombreCliente ,Elit Fermentum Risus Foundation
+AB000060,CodigoTienda  ,T19
+AB000060,NombreTienda  ,Tienda 5
+AB000060,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000060,Region        ,Norte
+AB000060,Departamento  ,Baja Verapaz
+AB000060,CodigoPlanta  ,P8
+AB000060,NombrePlanta  ,Planta 8
+AB000060,Region_1      ,Sur
+AB000060,Departamento_1,San Marcos
+AB000060,cantidad      ,13.0
+AB000060,precio        ,637.5
+AB000060,costo         ,522.75
+AB000060,fecha         ,Wed Oct 01 00:00:00 CST 2008
+AB000060,Descripcion   ,5TH AVENUE ELIZABETH ARDEN DAMA PERFUME 125
+AB000060,Linea         ,Perfumeria
+AB000060,CostoPromedio ,425.0
+AB000060,CodigoCliente ,MH98481
+AB000060,NombreCliente ,Luctus Et Ultrices Industries
+AB000060,CodigoTienda  ,T15
+AB000060,NombreTienda  ,Tienda 5
+AB000060,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000060,Region        ,Norte
+AB000060,Departamento  ,Baja Verapaz
+AB000060,CodigoPlanta  ,P8
+AB000060,NombrePlanta  ,Planta 8
+AB000060,Region_1      ,Sur
+AB000060,Departamento_1,San Marcos
+AB000060,cantidad      ,9.0
+AB000060,precio        ,637.5
+AB000060,costo         ,599.25
+AB000060,fecha         ,Tue Dec 01 00:00:00 CST 2009
+AB000061,Descripcion   ,5TH AVENUE AFTER FIVE ELIZABETH ARDEN DAMA PERFUME 125
+AB000061,Linea         ,Perfumeria
+AB000061,CostoPromedio ,375.0
+AB000061,CodigoCliente ,MZ65188
+AB000061,NombreCliente ,Elementum At Egestas Company
+AB000061,CodigoTienda  ,T42
+AB000061,NombreTienda  ,Tienda 43
+AB000061,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000061,Region        ,Norte
+AB000061,Departamento  ,Chiquimula
+AB000061,CodigoPlanta  ,P8
+AB000061,NombrePlanta  ,Planta 8
+AB000061,Region_1      ,Sur
+AB000061,Departamento_1,San Marcos
+AB000061,cantidad      ,20.0
+AB000061,precio        ,562.5
+AB000061,costo         ,556.875
+AB000061,fecha         ,Sat Oct 01 00:00:00 CST 2005
+AB000061,Descripcion   ,5TH AVENUE AFTER FIVE ELIZABETH ARDEN DAMA PERFUME 125
+AB000061,Linea         ,Perfumeria
+AB000061,CostoPromedio ,375.0
+AB000061,CodigoCliente ,TR14454
+AB000061,NombreCliente ,A Felis Ullamcorper Foundation
+AB000061,CodigoTienda  ,T26
+AB000061,NombreTienda  ,Tienda 42
+AB000061,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000061,Region        ,Norte
+AB000061,Departamento  ,Jalapa
+AB000061,CodigoPlanta  ,P3
+AB000061,NombrePlanta  ,Planta 3
+AB000061,Region_1      ,Norte
+AB000061,Departamento_1,El Progreso
+AB000061,cantidad      ,12.0
+AB000061,precio        ,562.5
+AB000061,costo         ,410.625
+AB000061,fecha         ,Fri Apr 01 00:00:00 CST 2011
+AB000062,Descripcion   ,5TH AVENUE NYC ELIZABETH ARDEN DAMA PERFUME 125
+AB000062,Linea         ,Perfumeria
+AB000062,CostoPromedio ,365.0
+AB000062,CodigoCliente ,G696431
+AB000062,NombreCliente ,Audra Oneal
+AB000062,CodigoTienda  ,T31
+AB000062,NombreTienda  ,Tienda 43
+AB000062,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000062,Region        ,Norte
+AB000062,Departamento  ,Chiquimula
+AB000062,CodigoPlanta  ,P6
+AB000062,NombrePlanta  ,Planta 6
+AB000062,Region_1      ,Occidente
+AB000062,Departamento_1,Quetzaltenango
+AB000062,cantidad      ,23.0
+AB000062,precio        ,547.5
+AB000062,costo         ,410.625
+AB000062,fecha         ,Wed Jun 01 00:00:00 CST 2016
+AB000062,Descripcion   ,5TH AVENUE NYC ELIZABETH ARDEN DAMA PERFUME 125
+AB000062,Linea         ,Perfumeria
+AB000062,CostoPromedio ,365.0
+AB000062,CodigoCliente ,BH46389
+AB000062,NombreCliente ,Augue Consulting
+AB000062,CodigoTienda  ,T8
+AB000062,NombreTienda  ,Tienda 43
+AB000062,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000062,Region        ,Norte
+AB000062,Departamento  ,Chiquimula
+AB000062,CodigoPlanta  ,P3
+AB000062,NombrePlanta  ,Planta 3
+AB000062,Region_1      ,Norte
+AB000062,Departamento_1,El Progreso
+AB000062,cantidad      ,3.0
+AB000062,precio        ,547.5
+AB000062,costo         ,372.29999999999995
+AB000062,fecha         ,Mon Sep 01 00:00:00 CST 2014
+AB000063,Descripcion   ,5TH NYC PREMIERE ELIZABETH ARDEN DAMA PERFUME 125
+AB000063,Linea         ,Perfumeria
+AB000063,CostoPromedio ,380.0
+AB000063,CodigoCliente ,LQ64714
+AB000063,NombreCliente ,Donec Institute
+AB000063,CodigoTienda  ,T13
+AB000063,NombreTienda  ,Tienda 5
+AB000063,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000063,Region        ,Norte
+AB000063,Departamento  ,Baja Verapaz
+AB000063,CodigoPlanta  ,P8
+AB000063,NombrePlanta  ,Planta 8
+AB000063,Region_1      ,Sur
+AB000063,Departamento_1,San Marcos
+AB000063,cantidad      ,2.0
+AB000063,precio        ,570.0
+AB000063,costo         ,302.1
+AB000063,fecha         ,Sat Dec 01 00:00:00 CST 2012
+AB000063,Descripcion   ,5TH NYC PREMIERE ELIZABETH ARDEN DAMA PERFUME 125
+AB000063,Linea         ,Perfumeria
+AB000063,CostoPromedio ,380.0
+AB000063,CodigoCliente ,MA31163
+AB000063,NombreCliente ,Feugiat Tellus Lorem Incorporated
+AB000063,CodigoTienda  ,T29
+AB000063,NombreTienda  ,Tienda 42
+AB000063,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000063,Region        ,Norte
+AB000063,Departamento  ,Jalapa
+AB000063,CodigoPlanta  ,P9
+AB000063,NombrePlanta  ,Planta 9
+AB000063,Region_1      ,Norte
+AB000063,Departamento_1,Izabal
+AB000063,cantidad      ,2.0
+AB000063,precio        ,570.0
+AB000063,costo         ,319.2
+AB000063,fecha         ,Mon Feb 01 00:00:00 CST 2010
+AB000064,Descripcion   ,5TH AVENUE NIGHTS ELIZABETH ARDEN DAMA PERFUME 125
+AB000064,Linea         ,Perfumeria
+AB000064,CostoPromedio ,335.0
+AB000064,CodigoCliente ,H963214
+AB000064,NombreCliente ,Daria Guzman
+AB000064,CodigoTienda  ,T32
+AB000064,NombreTienda  ,Tienda 43
+AB000064,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000064,Region        ,Norte
+AB000064,Departamento  ,Chiquimula
+AB000064,CodigoPlanta  ,P2
+AB000064,NombrePlanta  ,Planta 2
+AB000064,Region_1      ,Norte
+AB000064,Departamento_1,Escuintla
+AB000064,cantidad      ,16.0
+AB000064,precio        ,502.5
+AB000064,costo         ,291.45000000000005
+AB000064,fecha         ,Fri Mar 01 00:00:00 CST 2013
+AB000065,Descripcion   ,5TH AVENUE STYLE ELIZABETH ARDEN DAMA PERFUME 125
+AB000065,Linea         ,Perfumeria
+AB000065,CostoPromedio ,345.0
+AB000065,CodigoCliente ,Z417443
+AB000065,NombreCliente ,Alvin Cain
+AB000065,CodigoTienda  ,T13
+AB000065,NombreTienda  ,Tienda 5
+AB000065,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000065,Region        ,Norte
+AB000065,Departamento  ,Baja Verapaz
+AB000065,CodigoPlanta  ,P10
+AB000065,NombrePlanta  ,Planta 1
+AB000065,Region_1      ,Norte
+AB000065,Departamento_1,Guatemala
+AB000065,cantidad      ,2.0
+AB000065,precio        ,517.5
+AB000065,costo         ,346.725
+AB000065,fecha         ,Sat Feb 01 00:00:00 CST 2014
+AB000065,Descripcion   ,5TH AVENUE STYLE ELIZABETH ARDEN DAMA PERFUME 125
+AB000065,Linea         ,Perfumeria
+AB000065,CostoPromedio ,345.0
+AB000065,CodigoCliente ,QD37241
+AB000065,NombreCliente ,Integer Tincidunt Aliquam Inc.
+AB000065,CodigoTienda  ,T14
+AB000065,NombreTienda  ,Tienda 5
+AB000065,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000065,Region        ,Norte
+AB000065,Departamento  ,Baja Verapaz
+AB000065,CodigoPlanta  ,P1
+AB000065,NombrePlanta  ,Planta 1
+AB000065,Region_1      ,Norte
+AB000065,Departamento_1,Guatemala
+AB000065,cantidad      ,6.0
+AB000065,precio        ,517.5
+AB000065,costo         ,357.075
+AB000065,fecha         ,Fri Nov 01 00:00:00 CST 2013
+AB000065,Descripcion   ,5TH AVENUE STYLE ELIZABETH ARDEN DAMA PERFUME 125
+AB000065,Linea         ,Perfumeria
+AB000065,CostoPromedio ,345.0
+AB000065,CodigoCliente ,DZ55645
+AB000065,NombreCliente ,Semper Et Lacinia Associates
+AB000065,CodigoTienda  ,T13
+AB000065,NombreTienda  ,Tienda 5
+AB000065,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000065,Region        ,Norte
+AB000065,Departamento  ,Baja Verapaz
+AB000065,CodigoPlanta  ,P2
+AB000065,NombrePlanta  ,Planta 2
+AB000065,Region_1      ,Norte
+AB000065,Departamento_1,Escuintla
+AB000065,cantidad      ,24.0
+AB000065,precio        ,517.5
+AB000065,costo         ,486.45
+AB000065,fecha         ,Fri Jan 01 00:00:00 CST 2010
+AB000065,Descripcion   ,5TH AVENUE STYLE ELIZABETH ARDEN DAMA PERFUME 125
+AB000065,Linea         ,Perfumeria
+AB000065,CostoPromedio ,345.0
+AB000065,CodigoCliente ,YS38377
+AB000065,NombreCliente ,Sit LLP
+AB000065,CodigoTienda  ,T23
+AB000065,NombreTienda  ,Tienda 42
+AB000065,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000065,Region        ,Norte
+AB000065,Departamento  ,Jalapa
+AB000065,CodigoPlanta  ,P1
+AB000065,NombrePlanta  ,Planta 1
+AB000065,Region_1      ,Norte
+AB000065,Departamento_1,Guatemala
+AB000065,cantidad      ,21.0
+AB000065,precio        ,517.5
+AB000065,costo         ,310.5
+AB000065,fecha         ,Mon Oct 01 00:00:00 CST 2007
+AB000066,Descripcion   ,"90210 FOR HER TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000066,Linea         ,Perfumeria
+AB000066,CostoPromedio ,351.0
+AB000066,CodigoCliente ,Q134515
+AB000066,NombreCliente ,Deirdre Mathis
+AB000066,CodigoTienda  ,T2
+AB000066,NombreTienda  ,Tienda 22
+AB000066,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000066,Region        ,Norte
+AB000066,Departamento  ,Baja Verapaz
+AB000066,CodigoPlanta  ,P3
+AB000066,NombrePlanta  ,Planta 3
+AB000066,Region_1      ,Norte
+AB000066,Departamento_1,El Progreso
+AB000066,cantidad      ,24.0
+AB000066,precio        ,526.5
+AB000066,costo         ,473.85
+AB000066,fecha         ,Fri Apr 01 00:00:00 CST 2011
+AB000066,Descripcion   ,"90210 FOR HER TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000066,Linea         ,Perfumeria
+AB000066,CostoPromedio ,351.0
+AB000066,CodigoCliente ,Q626774
+AB000066,NombreCliente ,Adele Mcdaniel
+AB000066,CodigoTienda  ,T24
+AB000066,NombreTienda  ,Tienda 42
+AB000066,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000066,Region        ,Norte
+AB000066,Departamento  ,Jalapa
+AB000066,CodigoPlanta  ,P9
+AB000066,NombrePlanta  ,Planta 9
+AB000066,Region_1      ,Norte
+AB000066,Departamento_1,Izabal
+AB000066,cantidad      ,11.0
+AB000066,precio        ,526.5
+AB000066,costo         ,521.235
+AB000066,fecha         ,Wed Feb 01 00:00:00 CST 2012
+AB000066,Descripcion   ,"90210 FOR HER TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000066,Linea         ,Perfumeria
+AB000066,CostoPromedio ,351.0
+AB000066,CodigoCliente ,GR71829
+AB000066,NombreCliente ,Eget Ltd
+AB000066,CodigoTienda  ,T16
+AB000066,NombreTienda  ,Tienda 5
+AB000066,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000066,Region        ,Norte
+AB000066,Departamento  ,Baja Verapaz
+AB000066,CodigoPlanta  ,P10
+AB000066,NombrePlanta  ,Planta 1
+AB000066,Region_1      ,Norte
+AB000066,Departamento_1,Guatemala
+AB000066,cantidad      ,19.0
+AB000066,precio        ,526.5
+AB000066,costo         ,347.49
+AB000066,fecha         ,Tue Feb 01 00:00:00 CST 2005
+AB000067,Descripcion   ,"90210 TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000067,Linea         ,Perfumeria
+AB000067,CostoPromedio ,221.0
+AB000067,CodigoCliente ,N813247
+AB000067,NombreCliente ,Cheryl Frederick
+AB000067,CodigoTienda  ,T13
+AB000067,NombreTienda  ,Tienda 5
+AB000067,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000067,Region        ,Norte
+AB000067,Departamento  ,Baja Verapaz
+AB000067,CodigoPlanta  ,P5
+AB000067,NombrePlanta  ,Planta 5
+AB000067,Region_1      ,Norte
+AB000067,Departamento_1,Petén
+AB000067,cantidad      ,2.0
+AB000067,precio        ,331.5
+AB000067,costo         ,291.72
+AB000067,fecha         ,Fri Dec 01 00:00:00 CST 2006
+AB000067,Descripcion   ,"90210 TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000067,Linea         ,Perfumeria
+AB000067,CostoPromedio ,221.0
+AB000067,CodigoCliente ,G526333
+AB000067,NombreCliente ,Karleigh Whitfield
+AB000067,CodigoTienda  ,T20
+AB000067,NombreTienda  ,Tienda 42
+AB000067,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000067,Region        ,Norte
+AB000067,Departamento  ,Jalapa
+AB000067,CodigoPlanta  ,P2
+AB000067,NombrePlanta  ,Planta 2
+AB000067,Region_1      ,Norte
+AB000067,Departamento_1,Escuintla
+AB000067,cantidad      ,20.0
+AB000067,precio        ,331.5
+AB000067,costo         ,308.295
+AB000067,fecha         ,Sun Aug 01 00:00:00 CST 2010
+AB000069,Descripcion   ,"90210 GOLD JEANS TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000069,Linea         ,Perfumeria
+AB000069,CostoPromedio ,236.0
+AB000069,CodigoCliente ,K487832
+AB000069,NombreCliente ,Jescie Bolton
+AB000069,CodigoTienda  ,T35
+AB000069,NombreTienda  ,Tienda 43
+AB000069,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000069,Region        ,Norte
+AB000069,Departamento  ,Chiquimula
+AB000069,CodigoPlanta  ,P9
+AB000069,NombrePlanta  ,Planta 9
+AB000069,Region_1      ,Norte
+AB000069,Departamento_1,Izabal
+AB000069,cantidad      ,22.0
+AB000069,precio        ,354.0
+AB000069,costo         ,201.78
+AB000069,fecha         ,Thu Dec 01 00:00:00 CST 2005
+AB000070,Descripcion   ,"90210 MAGIC TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000070,Linea         ,Perfumeria
+AB000070,CostoPromedio ,236.0
+AB000070,CodigoCliente ,C862698
+AB000070,NombreCliente ,Malcolm Stewart
+AB000070,CodigoTienda  ,T38
+AB000070,NombreTienda  ,Tienda 43
+AB000070,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000070,Region        ,Norte
+AB000070,Departamento  ,Chiquimula
+AB000070,CodigoPlanta  ,P3
+AB000070,NombrePlanta  ,Planta 3
+AB000070,Region_1      ,Norte
+AB000070,Departamento_1,El Progreso
+AB000070,cantidad      ,16.0
+AB000070,precio        ,354.0
+AB000070,costo         ,279.65999999999997
+AB000070,fecha         ,Thu Jun 01 00:00:00 CST 2006
+AB000070,Descripcion   ,"90210 MAGIC TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000070,Linea         ,Perfumeria
+AB000070,CostoPromedio ,236.0
+AB000070,CodigoCliente ,Z443421
+AB000070,NombreCliente ,Shannon Velez
+AB000070,CodigoTienda  ,T9
+AB000070,NombreTienda  ,Tienda 43
+AB000070,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000070,Region        ,Norte
+AB000070,Departamento  ,Chiquimula
+AB000070,CodigoPlanta  ,P7
+AB000070,NombrePlanta  ,Planta 7
+AB000070,Region_1      ,Sur
+AB000070,Departamento_1,Retalhuleu
+AB000070,cantidad      ,24.0
+AB000070,precio        ,354.0
+AB000070,costo         ,215.94
+AB000070,fecha         ,Sun Sep 01 00:00:00 CST 2013
+AB000070,Descripcion   ,"90210 MAGIC TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000070,Linea         ,Perfumeria
+AB000070,CostoPromedio ,236.0
+AB000070,CodigoCliente ,H371929
+AB000070,NombreCliente ,Olympia Noble
+AB000070,CodigoTienda  ,T8
+AB000070,NombreTienda  ,Tienda 43
+AB000070,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000070,Region        ,Norte
+AB000070,Departamento  ,Chiquimula
+AB000070,CodigoPlanta  ,P1
+AB000070,NombrePlanta  ,Planta 1
+AB000070,Region_1      ,Norte
+AB000070,Departamento_1,Guatemala
+AB000070,cantidad      ,25.0
+AB000070,precio        ,354.0
+AB000070,costo         ,272.58
+AB000070,fecha         ,Sun Jun 01 00:00:00 CST 2008
+AB000071,Descripcion   ,"90210 METAL JEANS TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000071,Linea         ,Perfumeria
+AB000071,CostoPromedio ,266.0
+AB000071,CodigoCliente ,J536193
+AB000071,NombreCliente ,Glenna Waters
+AB000071,CodigoTienda  ,T1
+AB000071,NombreTienda  ,Tienda 5
+AB000071,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000071,Region        ,Norte
+AB000071,Departamento  ,Baja Verapaz
+AB000071,CodigoPlanta  ,P3
+AB000071,NombrePlanta  ,Planta 3
+AB000071,Region_1      ,Norte
+AB000071,Departamento_1,El Progreso
+AB000071,cantidad      ,1.0
+AB000071,precio        ,399.0
+AB000071,costo         ,367.08
+AB000071,fecha         ,Wed May 01 00:00:00 CST 2013
+AB000071,Descripcion   ,"90210 METAL JEANS TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000071,Linea         ,Perfumeria
+AB000071,CostoPromedio ,266.0
+AB000071,CodigoCliente ,E767479
+AB000071,NombreCliente ,Brynn Higgins
+AB000071,CodigoTienda  ,T29
+AB000071,NombreTienda  ,Tienda 42
+AB000071,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000071,Region        ,Norte
+AB000071,Departamento  ,Jalapa
+AB000071,CodigoPlanta  ,P2
+AB000071,NombrePlanta  ,Planta 2
+AB000071,Region_1      ,Norte
+AB000071,Departamento_1,Escuintla
+AB000071,cantidad      ,6.0
+AB000071,precio        ,399.0
+AB000071,costo         ,239.39999999999998
+AB000071,fecha         ,Sun Oct 01 00:00:00 CST 2006
+AB000071,Descripcion   ,"90210 METAL JEANS TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000071,Linea         ,Perfumeria
+AB000071,CostoPromedio ,266.0
+AB000071,CodigoCliente ,F919641
+AB000071,NombreCliente ,Uriel Taylor
+AB000071,CodigoTienda  ,T17
+AB000071,NombreTienda  ,Tienda 5
+AB000071,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000071,Region        ,Norte
+AB000071,Departamento  ,Baja Verapaz
+AB000071,CodigoPlanta  ,P9
+AB000071,NombrePlanta  ,Planta 9
+AB000071,Region_1      ,Norte
+AB000071,Departamento_1,Izabal
+AB000071,cantidad      ,14.0
+AB000071,precio        ,399.0
+AB000071,costo         ,387.03
+AB000071,fecha         ,Tue Apr 01 00:00:00 CST 2008
+AB000072,Descripcion   ,"90210 MOMMENT TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000072,Linea         ,Perfumeria
+AB000072,CostoPromedio ,251.0
+AB000072,CodigoCliente ,Y371742
+AB000072,NombreCliente ,Cassandra Hoover
+AB000072,CodigoTienda  ,T18
+AB000072,NombreTienda  ,Tienda 5
+AB000072,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000072,Region        ,Norte
+AB000072,Departamento  ,Baja Verapaz
+AB000072,CodigoPlanta  ,P2
+AB000072,NombrePlanta  ,Planta 2
+AB000072,Region_1      ,Norte
+AB000072,Departamento_1,Escuintla
+AB000072,cantidad      ,20.0
+AB000072,precio        ,376.5
+AB000072,costo         ,327.555
+AB000072,fecha         ,Thu Mar 01 00:00:00 CST 2012
+AB000072,Descripcion   ,"90210 MOMMENT TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000072,Linea         ,Perfumeria
+AB000072,CostoPromedio ,251.0
+AB000072,CodigoCliente ,R689765
+AB000072,NombreCliente ,Chelsea Sutton
+AB000072,CodigoTienda  ,T29
+AB000072,NombreTienda  ,Tienda 42
+AB000072,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000072,Region        ,Norte
+AB000072,Departamento  ,Jalapa
+AB000072,CodigoPlanta  ,P3
+AB000072,NombrePlanta  ,Planta 3
+AB000072,Region_1      ,Norte
+AB000072,Departamento_1,El Progreso
+AB000072,cantidad      ,15.0
+AB000072,precio        ,376.5
+AB000072,costo         ,331.32
+AB000072,fecha         ,Sun Nov 01 00:00:00 CST 2015
+AB000072,Descripcion   ,"90210 MOMMENT TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000072,Linea         ,Perfumeria
+AB000072,CostoPromedio ,251.0
+AB000072,CodigoCliente ,YF75518
+AB000072,NombreCliente ,Mattis Semper Dui Institute
+AB000072,CodigoTienda  ,T21
+AB000072,NombreTienda  ,Tienda 42
+AB000072,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000072,Region        ,Norte
+AB000072,Departamento  ,Jalapa
+AB000072,CodigoPlanta  ,P10
+AB000072,NombrePlanta  ,Planta 1
+AB000072,Region_1      ,Norte
+AB000072,Departamento_1,Guatemala
+AB000072,cantidad      ,3.0
+AB000072,precio        ,376.5
+AB000072,costo         ,304.96500000000003
+AB000072,fecha         ,Sat Mar 01 00:00:00 CST 2008
+AB000072,Descripcion   ,"90210 MOMMENT TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000072,Linea         ,Perfumeria
+AB000072,CostoPromedio ,251.0
+AB000072,CodigoCliente ,PT48994
+AB000072,NombreCliente ,Lacinia Vitae LLC
+AB000072,CodigoTienda  ,T26
+AB000072,NombreTienda  ,Tienda 42
+AB000072,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000072,Region        ,Norte
+AB000072,Departamento  ,Jalapa
+AB000072,CodigoPlanta  ,P3
+AB000072,NombrePlanta  ,Planta 3
+AB000072,Region_1      ,Norte
+AB000072,Departamento_1,El Progreso
+AB000072,cantidad      ,15.0
+AB000072,precio        ,376.5
+AB000072,costo         ,256.02
+AB000072,fecha         ,Wed Apr 01 00:00:00 CST 2015
+AB000073,Descripcion   ,"90210 PURE SEXY TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000073,Linea         ,Perfumeria
+AB000073,CostoPromedio ,291.0
+AB000073,CodigoCliente ,U376487
+AB000073,NombreCliente ,Kasimir Hahn
+AB000073,CodigoTienda  ,T29
+AB000073,NombreTienda  ,Tienda 42
+AB000073,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000073,Region        ,Norte
+AB000073,Departamento  ,Jalapa
+AB000073,CodigoPlanta  ,P2
+AB000073,NombrePlanta  ,Planta 2
+AB000073,Region_1      ,Norte
+AB000073,Departamento_1,Escuintla
+AB000073,cantidad      ,8.0
+AB000073,precio        ,436.5
+AB000073,costo         ,288.09000000000003
+AB000073,fecha         ,Thu Jan 01 00:00:00 CST 2009
+AB000073,Descripcion   ,"90210 PURE SEXY TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000073,Linea         ,Perfumeria
+AB000073,CostoPromedio ,291.0
+AB000073,CodigoCliente ,PT97679
+AB000073,NombreCliente ,Pede Praesent Industries
+AB000073,CodigoTienda  ,T5
+AB000073,NombreTienda  ,Tienda 43
+AB000073,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000073,Region        ,Norte
+AB000073,Departamento  ,Chiquimula
+AB000073,CodigoPlanta  ,P4
+AB000073,NombrePlanta  ,Planta 4
+AB000073,Region_1      ,Sur
+AB000073,Departamento_1,Zacapa
+AB000073,cantidad      ,10.0
+AB000073,precio        ,436.5
+AB000073,costo         ,309.915
+AB000073,fecha         ,Wed Jan 01 00:00:00 CST 2014
+AB000073,Descripcion   ,"90210 PURE SEXY TORAND, A SPELLING ENTERTEIMEN DAMA PERFUME 100"
+AB000073,Linea         ,Perfumeria
+AB000073,CostoPromedio ,291.0
+AB000073,CodigoCliente ,GB95125
+AB000073,NombreCliente ,Dolor Sit Amet Institute
+AB000073,CodigoTienda  ,T17
+AB000073,NombreTienda  ,Tienda 5
+AB000073,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000073,Region        ,Norte
+AB000073,Departamento  ,Baja Verapaz
+AB000073,CodigoPlanta  ,P7
+AB000073,NombrePlanta  ,Planta 7
+AB000073,Region_1      ,Sur
+AB000073,Departamento_1,Retalhuleu
+AB000073,cantidad      ,14.0
+AB000073,precio        ,436.5
+AB000073,costo         ,248.805
+AB000073,fecha         ,Fri Apr 01 00:00:00 CST 2016
+AB000074,Descripcion   ,"90210 RED JEANS TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000074,Linea         ,Perfumeria
+AB000074,CostoPromedio ,100.0
+AB000074,CodigoCliente ,K734656
+AB000074,NombreCliente ,Sean Bernard
+AB000074,CodigoTienda  ,T1
+AB000074,NombreTienda  ,Tienda 5
+AB000074,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000074,Region        ,Norte
+AB000074,Departamento  ,Baja Verapaz
+AB000074,CodigoPlanta  ,P8
+AB000074,NombrePlanta  ,Planta 8
+AB000074,Region_1      ,Sur
+AB000074,Departamento_1,San Marcos
+AB000074,cantidad      ,18.0
+AB000074,precio        ,150.0
+AB000074,costo         ,120.0
+AB000074,fecha         ,Wed Sep 01 00:00:00 CST 2010
+AB000074,Descripcion   ,"90210 RED JEANS TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000074,Linea         ,Perfumeria
+AB000074,CostoPromedio ,100.0
+AB000074,CodigoCliente ,ZX55584
+AB000074,NombreCliente ,Vulputate Risus Limited
+AB000074,CodigoTienda  ,T21
+AB000074,NombreTienda  ,Tienda 42
+AB000074,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000074,Region        ,Norte
+AB000074,Departamento  ,Jalapa
+AB000074,CodigoPlanta  ,P10
+AB000074,NombrePlanta  ,Planta 1
+AB000074,Region_1      ,Norte
+AB000074,Departamento_1,Guatemala
+AB000074,cantidad      ,5.0
+AB000074,precio        ,150.0
+AB000074,costo         ,91.5
+AB000074,fecha         ,Tue Apr 01 00:00:00 CST 2014
+AB000075,Descripcion   ,"90210 SPORT TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000075,Linea         ,Perfumeria
+AB000075,CostoPromedio ,226.0
+AB000075,CodigoCliente ,G631867
+AB000075,NombreCliente ,Vivian Sutton
+AB000075,CodigoTienda  ,T14
+AB000075,NombreTienda  ,Tienda 5
+AB000075,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000075,Region        ,Norte
+AB000075,Departamento  ,Baja Verapaz
+AB000075,CodigoPlanta  ,P10
+AB000075,NombrePlanta  ,Planta 1
+AB000075,Region_1      ,Norte
+AB000075,Departamento_1,Guatemala
+AB000075,cantidad      ,18.0
+AB000075,precio        ,339.0
+AB000075,costo         ,274.59000000000003
+AB000075,fecha         ,Tue Nov 01 00:00:00 CST 2005
+AB000077,Descripcion   ,"90210 TOUCH OF GOLD TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000077,Linea         ,Perfumeria
+AB000077,CostoPromedio ,331.0
+AB000077,CodigoCliente ,R734251
+AB000077,NombreCliente ,Audra Madden
+AB000077,CodigoTienda  ,T35
+AB000077,NombreTienda  ,Tienda 43
+AB000077,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000077,Region        ,Norte
+AB000077,Departamento  ,Chiquimula
+AB000077,CodigoPlanta  ,P2
+AB000077,NombrePlanta  ,Planta 2
+AB000077,Region_1      ,Norte
+AB000077,Departamento_1,Escuintla
+AB000077,cantidad      ,3.0
+AB000077,precio        ,496.5
+AB000077,costo         ,248.25
+AB000077,fecha         ,Tue Dec 01 00:00:00 CST 2009
+AB000077,Descripcion   ,"90210 TOUCH OF GOLD TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000077,Linea         ,Perfumeria
+AB000077,CostoPromedio ,331.0
+AB000077,CodigoCliente ,WW15854
+AB000077,NombreCliente ,In Ltd
+AB000077,CodigoTienda  ,T36
+AB000077,NombreTienda  ,Tienda 43
+AB000077,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000077,Region        ,Norte
+AB000077,Departamento  ,Chiquimula
+AB000077,CodigoPlanta  ,P7
+AB000077,NombrePlanta  ,Planta 7
+AB000077,Region_1      ,Sur
+AB000077,Departamento_1,Retalhuleu
+AB000077,cantidad      ,25.0
+AB000077,precio        ,496.5
+AB000077,costo         ,312.795
+AB000077,fecha         ,Sun May 01 00:00:00 CST 2016
+AB000078,Descripcion   ,"90210 TOUCH OF PARADISE TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000078,Linea         ,Perfumeria
+AB000078,CostoPromedio ,291.0
+AB000078,CodigoCliente ,O584717
+AB000078,NombreCliente ,Kaye Davenport
+AB000078,CodigoTienda  ,T12
+AB000078,NombreTienda  ,Tienda 5
+AB000078,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000078,Region        ,Norte
+AB000078,Departamento  ,Baja Verapaz
+AB000078,CodigoPlanta  ,P4
+AB000078,NombrePlanta  ,Planta 4
+AB000078,Region_1      ,Sur
+AB000078,Departamento_1,Zacapa
+AB000078,cantidad      ,15.0
+AB000078,precio        ,436.5
+AB000078,costo         ,257.53499999999997
+AB000078,fecha         ,Sat Jul 01 00:00:00 CST 2006
+AB000078,Descripcion   ,"90210 TOUCH OF PARADISE TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000078,Linea         ,Perfumeria
+AB000078,CostoPromedio ,291.0
+AB000078,CodigoCliente ,B218928
+AB000078,NombreCliente ,Christian Stanley
+AB000078,CodigoTienda  ,T19
+AB000078,NombreTienda  ,Tienda 5
+AB000078,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000078,Region        ,Norte
+AB000078,Departamento  ,Baja Verapaz
+AB000078,CodigoPlanta  ,P7
+AB000078,NombrePlanta  ,Planta 7
+AB000078,Region_1      ,Sur
+AB000078,Departamento_1,Retalhuleu
+AB000078,cantidad      ,24.0
+AB000078,precio        ,436.5
+AB000078,costo         ,357.93
+AB000078,fecha         ,Wed Feb 01 00:00:00 CST 2017
+AB000078,Descripcion   ,"90210 TOUCH OF PARADISE TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000078,Linea         ,Perfumeria
+AB000078,CostoPromedio ,291.0
+AB000078,CodigoCliente ,Z614617
+AB000078,NombreCliente ,Ariel Lara
+AB000078,CodigoTienda  ,T18
+AB000078,NombreTienda  ,Tienda 5
+AB000078,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000078,Region        ,Norte
+AB000078,Departamento  ,Baja Verapaz
+AB000078,CodigoPlanta  ,P6
+AB000078,NombrePlanta  ,Planta 6
+AB000078,Region_1      ,Occidente
+AB000078,Departamento_1,Quetzaltenango
+AB000078,cantidad      ,22.0
+AB000078,precio        ,436.5
+AB000078,costo         ,226.98000000000002
+AB000078,fecha         ,Sat Oct 01 00:00:00 CST 2016
+AB000079,Descripcion   ,"90210 VERY SEXY TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000079,Linea         ,Perfumeria
+AB000079,CostoPromedio ,276.0
+AB000079,CodigoCliente ,V561922
+AB000079,NombreCliente ,Blythe Owen
+AB000079,CodigoTienda  ,T43
+AB000079,NombreTienda  ,Tienda 43
+AB000079,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000079,Region        ,Norte
+AB000079,Departamento  ,Chiquimula
+AB000079,CodigoPlanta  ,P4
+AB000079,NombrePlanta  ,Planta 4
+AB000079,Region_1      ,Sur
+AB000079,Departamento_1,Zacapa
+AB000079,cantidad      ,14.0
+AB000079,precio        ,414.0
+AB000079,costo         ,327.06
+AB000079,fecha         ,Wed Jul 01 00:00:00 CST 2009
+AB000079,Descripcion   ,"90210 VERY SEXY TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000079,Linea         ,Perfumeria
+AB000079,CostoPromedio ,276.0
+AB000079,CodigoCliente ,KS15919
+AB000079,NombreCliente ,Feugiat Corp.
+AB000079,CodigoTienda  ,T36
+AB000079,NombreTienda  ,Tienda 43
+AB000079,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000079,Region        ,Norte
+AB000079,Departamento  ,Chiquimula
+AB000079,CodigoPlanta  ,P1
+AB000079,NombrePlanta  ,Planta 1
+AB000079,Region_1      ,Norte
+AB000079,Departamento_1,Guatemala
+AB000079,cantidad      ,20.0
+AB000079,precio        ,414.0
+AB000079,costo         ,231.84
+AB000079,fecha         ,Tue Jul 01 00:00:00 CST 2014
+AB000080,Descripcion   ,"90210 VERY SEXY 2 TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000080,Linea         ,Perfumeria
+AB000080,CostoPromedio ,276.0
+AB000080,CodigoCliente ,G311237
+AB000080,NombreCliente ,Kamal Nichols
+AB000080,CodigoTienda  ,T34
+AB000080,NombreTienda  ,Tienda 43
+AB000080,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000080,Region        ,Norte
+AB000080,Departamento  ,Chiquimula
+AB000080,CodigoPlanta  ,P8
+AB000080,NombrePlanta  ,Planta 8
+AB000080,Region_1      ,Sur
+AB000080,Departamento_1,San Marcos
+AB000080,cantidad      ,24.0
+AB000080,precio        ,414.0
+AB000080,costo         ,389.16
+AB000080,fecha         ,Thu Sep 01 00:00:00 CST 2011
+AB000080,Descripcion   ,"90210 VERY SEXY 2 TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000080,Linea         ,Perfumeria
+AB000080,CostoPromedio ,276.0
+AB000080,CodigoCliente ,VU61112
+AB000080,NombreCliente ,Convallis Convallis Corporation
+AB000080,CodigoTienda  ,T11
+AB000080,NombreTienda  ,Tienda 5
+AB000080,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000080,Region        ,Norte
+AB000080,Departamento  ,Baja Verapaz
+AB000080,CodigoPlanta  ,P3
+AB000080,NombrePlanta  ,Planta 3
+AB000080,Region_1      ,Norte
+AB000080,Departamento_1,El Progreso
+AB000080,cantidad      ,8.0
+AB000080,precio        ,414.0
+AB000080,costo         ,207.0
+AB000080,fecha         ,Tue Jul 01 00:00:00 CST 2014
+AB000082,Descripcion   ,"90210 WHITE TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100"
+AB000082,Linea         ,Perfumeria
+AB000082,CostoPromedio ,236.0
+AB000082,CodigoCliente ,N292842
+AB000082,NombreCliente ,Carter Joyner
+AB000082,CodigoTienda  ,T8
+AB000082,NombreTienda  ,Tienda 43
+AB000082,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000082,Region        ,Norte
+AB000082,Departamento  ,Chiquimula
+AB000082,CodigoPlanta  ,P4
+AB000082,NombrePlanta  ,Planta 4
+AB000082,Region_1      ,Sur
+AB000082,Departamento_1,Zacapa
+AB000082,cantidad      ,17.0
+AB000082,precio        ,354.0
+AB000082,costo         ,269.04
+AB000082,fecha         ,Sat Jan 01 00:00:00 CST 2011
+AB000083,Descripcion   ,A SCENT BY ISSEY MIYAKE ISSEY MIYAKE DAMA TOILETTE 100
+AB000083,Linea         ,Perfumeria
+AB000083,CostoPromedio ,711.0
+AB000083,CodigoCliente ,QX64757
+AB000083,NombreCliente ,Ligula Ltd
+AB000083,CodigoTienda  ,T31
+AB000083,NombreTienda  ,Tienda 43
+AB000083,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000083,Region        ,Norte
+AB000083,Departamento  ,Chiquimula
+AB000083,CodigoPlanta  ,P5
+AB000083,NombrePlanta  ,Planta 5
+AB000083,Region_1      ,Norte
+AB000083,Departamento_1,Petén
+AB000083,cantidad      ,23.0
+AB000083,precio        ,1066.5
+AB000083,costo         ,693.225
+AB000083,fecha         ,Mon Jun 01 00:00:00 CST 2015
+AB000084,Descripcion   ,ACQUA DI GIO GIORGIO ARMANI DAMA TOILETTE 100
+AB000084,Linea         ,Perfumeria
+AB000084,CostoPromedio ,945.0
+AB000084,CodigoCliente ,Y923456
+AB000084,NombreCliente ,Aretha Foley
+AB000084,CodigoTienda  ,T20
+AB000084,NombreTienda  ,Tienda 42
+AB000084,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000084,Region        ,Norte
+AB000084,Departamento  ,Jalapa
+AB000084,CodigoPlanta  ,P7
+AB000084,NombrePlanta  ,Planta 7
+AB000084,Region_1      ,Sur
+AB000084,Departamento_1,Retalhuleu
+AB000084,cantidad      ,10.0
+AB000084,precio        ,1417.5
+AB000084,costo         ,1247.4
+AB000084,fecha         ,Wed Jun 01 00:00:00 CST 2005
+AB000084,Descripcion   ,ACQUA DI GIO GIORGIO ARMANI DAMA TOILETTE 100
+AB000084,Linea         ,Perfumeria
+AB000084,CostoPromedio ,945.0
+AB000084,CodigoCliente ,JT56112
+AB000084,NombreCliente ,Sodales Incorporated
+AB000084,CodigoTienda  ,T6
+AB000084,NombreTienda  ,Tienda 43
+AB000084,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000084,Region        ,Norte
+AB000084,Departamento  ,Chiquimula
+AB000084,CodigoPlanta  ,P8
+AB000084,NombrePlanta  ,Planta 8
+AB000084,Region_1      ,Sur
+AB000084,Departamento_1,San Marcos
+AB000084,cantidad      ,1.0
+AB000084,precio        ,1417.5
+AB000084,costo         ,1134.0
+AB000084,fecha         ,Sun May 01 00:00:00 CST 2016
+AB000085,Descripcion   ,ACQUA DI GIOIA GIORGIO ARMANI DAMA PERFUME 100
+AB000085,Linea         ,Perfumeria
+AB000085,CostoPromedio ,731.0
+AB000085,CodigoCliente ,K965918
+AB000085,NombreCliente ,Lucian Fleming
+AB000085,CodigoTienda  ,T5
+AB000085,NombreTienda  ,Tienda 43
+AB000085,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000085,Region        ,Norte
+AB000085,Departamento  ,Chiquimula
+AB000085,CodigoPlanta  ,P3
+AB000085,NombrePlanta  ,Planta 3
+AB000085,Region_1      ,Norte
+AB000085,Departamento_1,El Progreso
+AB000085,cantidad      ,11.0
+AB000085,precio        ,1096.5
+AB000085,costo         ,953.9549999999999
+AB000085,fecha         ,Wed Aug 01 00:00:00 CST 2007
+AB000085,Descripcion   ,ACQUA DI GIOIA GIORGIO ARMANI DAMA PERFUME 100
+AB000085,Linea         ,Perfumeria
+AB000085,CostoPromedio ,731.0
+AB000085,CodigoCliente ,LF88459
+AB000085,NombreCliente ,Lorem Luctus Ut Institute
+AB000085,CodigoTienda  ,T12
+AB000085,NombreTienda  ,Tienda 5
+AB000085,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000085,Region        ,Norte
+AB000085,Departamento  ,Baja Verapaz
+AB000085,CodigoPlanta  ,P10
+AB000085,NombrePlanta  ,Planta 1
+AB000085,Region_1      ,Norte
+AB000085,Departamento_1,Guatemala
+AB000085,cantidad      ,11.0
+AB000085,precio        ,1096.5
+AB000085,costo         ,975.885
+AB000085,fecha         ,Thu Oct 01 00:00:00 CST 2009
+AB000086,Descripcion   ,ADIDAS FRUITY RHYTHM ADIDAS DAMA TOILETTE 50
+AB000086,Linea         ,Perfumeria
+AB000086,CostoPromedio ,191.0
+AB000086,CodigoCliente ,T489744
+AB000086,NombreCliente ,Rafael Hale
+AB000086,CodigoTienda  ,T5
+AB000086,NombreTienda  ,Tienda 43
+AB000086,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000086,Region        ,Norte
+AB000086,Departamento  ,Chiquimula
+AB000086,CodigoPlanta  ,P8
+AB000086,NombrePlanta  ,Planta 8
+AB000086,Region_1      ,Sur
+AB000086,Departamento_1,San Marcos
+AB000086,cantidad      ,25.0
+AB000086,precio        ,286.5
+AB000086,costo         ,277.905
+AB000086,fecha         ,Sat Jul 01 00:00:00 CST 2006
+AB000086,Descripcion   ,ADIDAS FRUITY RHYTHM ADIDAS DAMA TOILETTE 50
+AB000086,Linea         ,Perfumeria
+AB000086,CostoPromedio ,191.0
+AB000086,CodigoCliente ,H162238
+AB000086,NombreCliente ,Hillary Hale
+AB000086,CodigoTienda  ,T38
+AB000086,NombreTienda  ,Tienda 43
+AB000086,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000086,Region        ,Norte
+AB000086,Departamento  ,Chiquimula
+AB000086,CodigoPlanta  ,P6
+AB000086,NombrePlanta  ,Planta 6
+AB000086,Region_1      ,Occidente
+AB000086,Departamento_1,Quetzaltenango
+AB000086,cantidad      ,3.0
+AB000086,precio        ,286.5
+AB000086,costo         ,206.27999999999997
+AB000086,fecha         ,Sat Sep 01 00:00:00 CST 2012
+AB000086,Descripcion   ,ADIDAS FRUITY RHYTHM ADIDAS DAMA TOILETTE 50
+AB000086,Linea         ,Perfumeria
+AB000086,CostoPromedio ,191.0
+AB000086,CodigoCliente ,SN44569
+AB000086,NombreCliente ,Ac Foundation
+AB000086,CodigoTienda  ,T33
+AB000086,NombreTienda  ,Tienda 43
+AB000086,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000086,Region        ,Norte
+AB000086,Departamento  ,Chiquimula
+AB000086,CodigoPlanta  ,P8
+AB000086,NombrePlanta  ,Planta 8
+AB000086,Region_1      ,Sur
+AB000086,Departamento_1,San Marcos
+AB000086,cantidad      ,24.0
+AB000086,precio        ,286.5
+AB000086,costo         ,209.14499999999998
+AB000086,fecha         ,Sun Oct 01 00:00:00 CST 2006
+AB000086,Descripcion   ,ADIDAS FRUITY RHYTHM ADIDAS DAMA TOILETTE 50
+AB000086,Linea         ,Perfumeria
+AB000086,CostoPromedio ,191.0
+AB000086,CodigoCliente ,ZK33632
+AB000086,NombreCliente ,Rutrum Urna Nec Corp.
+AB000086,CodigoTienda  ,T40
+AB000086,NombreTienda  ,Tienda 43
+AB000086,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000086,Region        ,Norte
+AB000086,Departamento  ,Chiquimula
+AB000086,CodigoPlanta  ,P2
+AB000086,NombrePlanta  ,Planta 2
+AB000086,Region_1      ,Norte
+AB000086,Departamento_1,Escuintla
+AB000086,cantidad      ,22.0
+AB000086,precio        ,286.5
+AB000086,costo         ,272.175
+AB000086,fecha         ,Tue Aug 01 00:00:00 CST 2006
+AB000088,Descripcion   ,ADIDAS FRESH VIBES ADIDAS DAMA TOILETTE 50
+AB000088,Linea         ,Perfumeria
+AB000088,CostoPromedio ,191.0
+AB000088,CodigoCliente ,Q545442
+AB000088,NombreCliente ,Deirdre Short
+AB000088,CodigoTienda  ,T11
+AB000088,NombreTienda  ,Tienda 5
+AB000088,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000088,Region        ,Norte
+AB000088,Departamento  ,Baja Verapaz
+AB000088,CodigoPlanta  ,P4
+AB000088,NombrePlanta  ,Planta 4
+AB000088,Region_1      ,Sur
+AB000088,Departamento_1,Zacapa
+AB000088,cantidad      ,10.0
+AB000088,precio        ,286.5
+AB000088,costo         ,217.74
+AB000088,fecha         ,Thu Nov 01 00:00:00 CST 2007
+AB000088,Descripcion   ,ADIDAS FRESH VIBES ADIDAS DAMA TOILETTE 50
+AB000088,Linea         ,Perfumeria
+AB000088,CostoPromedio ,191.0
+AB000088,CodigoCliente ,HW71671
+AB000088,NombreCliente ,Proin Vel Arcu Ltd
+AB000088,CodigoTienda  ,T11
+AB000088,NombreTienda  ,Tienda 5
+AB000088,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000088,Region        ,Norte
+AB000088,Departamento  ,Baja Verapaz
+AB000088,CodigoPlanta  ,P4
+AB000088,NombrePlanta  ,Planta 4
+AB000088,Region_1      ,Sur
+AB000088,Departamento_1,Zacapa
+AB000088,cantidad      ,14.0
+AB000088,precio        ,286.5
+AB000088,costo         ,212.01
+AB000088,fecha         ,Sun Jul 01 00:00:00 CST 2007
+AB000089,Descripcion   ,ADIDAS TROPICAL PASSION ADIDAS DAMA TOILETTE 50
+AB000089,Linea         ,Perfumeria
+AB000089,CostoPromedio ,191.0
+AB000089,CodigoCliente ,S737426
+AB000089,NombreCliente ,Cameron Mccoy
+AB000089,CodigoTienda  ,T26
+AB000089,NombreTienda  ,Tienda 42
+AB000089,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000089,Region        ,Norte
+AB000089,Departamento  ,Jalapa
+AB000089,CodigoPlanta  ,P3
+AB000089,NombrePlanta  ,Planta 3
+AB000089,Region_1      ,Norte
+AB000089,Departamento_1,El Progreso
+AB000089,cantidad      ,18.0
+AB000089,precio        ,286.5
+AB000089,costo         ,217.74
+AB000089,fecha         ,Wed Oct 01 00:00:00 CST 2008
+AB000089,Descripcion   ,ADIDAS TROPICAL PASSION ADIDAS DAMA TOILETTE 50
+AB000089,Linea         ,Perfumeria
+AB000089,CostoPromedio ,191.0
+AB000089,CodigoCliente ,J423476
+AB000089,NombreCliente ,Wynter Yang
+AB000089,CodigoTienda  ,T18
+AB000089,NombreTienda  ,Tienda 5
+AB000089,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000089,Region        ,Norte
+AB000089,Departamento  ,Baja Verapaz
+AB000089,CodigoPlanta  ,P2
+AB000089,NombrePlanta  ,Planta 2
+AB000089,Region_1      ,Norte
+AB000089,Departamento_1,Escuintla
+AB000089,cantidad      ,24.0
+AB000089,precio        ,286.5
+AB000089,costo         ,148.98000000000002
+AB000089,fecha         ,Fri May 01 00:00:00 CST 2015
+AB000089,Descripcion   ,ADIDAS TROPICAL PASSION ADIDAS DAMA TOILETTE 50
+AB000089,Linea         ,Perfumeria
+AB000089,CostoPromedio ,191.0
+AB000089,CodigoCliente ,U748251
+AB000089,NombreCliente ,Alice Black
+AB000089,CodigoTienda  ,T41
+AB000089,NombreTienda  ,Tienda 43
+AB000089,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000089,Region        ,Norte
+AB000089,Departamento  ,Chiquimula
+AB000089,CodigoPlanta  ,P1
+AB000089,NombrePlanta  ,Planta 1
+AB000089,Region_1      ,Norte
+AB000089,Departamento_1,Guatemala
+AB000089,cantidad      ,25.0
+AB000089,precio        ,286.5
+AB000089,costo         ,203.41500000000002
+AB000089,fecha         ,Thu Mar 01 00:00:00 CST 2007
+AB000090,Descripcion   ,AGUA DE LOEWE ELLA LOEWE DAMA TOILETTE 100
+AB000090,Linea         ,Perfumeria
+AB000090,CostoPromedio ,731.0
+AB000090,CodigoCliente ,PZ21836
+AB000090,NombreCliente ,Ipsum Primis Foundation
+AB000090,CodigoTienda  ,T35
+AB000090,NombreTienda  ,Tienda 43
+AB000090,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000090,Region        ,Norte
+AB000090,Departamento  ,Chiquimula
+AB000090,CodigoPlanta  ,P7
+AB000090,NombrePlanta  ,Planta 7
+AB000090,Region_1      ,Sur
+AB000090,Departamento_1,Retalhuleu
+AB000090,cantidad      ,20.0
+AB000090,precio        ,1096.5
+AB000090,costo         ,548.25
+AB000090,fecha         ,Wed Aug 01 00:00:00 CST 2007
+AB000090,Descripcion   ,AGUA DE LOEWE ELLA LOEWE DAMA TOILETTE 100
+AB000090,Linea         ,Perfumeria
+AB000090,CostoPromedio ,731.0
+AB000090,CodigoCliente ,WL53371
+AB000090,NombreCliente ,Condimentum Eget Volutpat Corp.
+AB000090,CodigoTienda  ,T28
+AB000090,NombreTienda  ,Tienda 42
+AB000090,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000090,Region        ,Norte
+AB000090,Departamento  ,Jalapa
+AB000090,CodigoPlanta  ,P10
+AB000090,NombrePlanta  ,Planta 1
+AB000090,Region_1      ,Norte
+AB000090,Departamento_1,Guatemala
+AB000090,cantidad      ,3.0
+AB000090,precio        ,1096.5
+AB000090,costo         ,986.85
+AB000090,fecha         ,Sat Jan 01 00:00:00 CST 2011
+AB000091,Descripcion   ,AIRE LOCO LOEWE DAMA TOILETTE 100
+AB000091,Linea         ,Perfumeria
+AB000091,CostoPromedio ,831.0
+AB000091,CodigoCliente ,X661493
+AB000091,NombreCliente ,Marshall Carey
+AB000091,CodigoTienda  ,T31
+AB000091,NombreTienda  ,Tienda 43
+AB000091,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000091,Region        ,Norte
+AB000091,Departamento  ,Chiquimula
+AB000091,CodigoPlanta  ,P6
+AB000091,NombrePlanta  ,Planta 6
+AB000091,Region_1      ,Occidente
+AB000091,Departamento_1,Quetzaltenango
+AB000091,cantidad      ,12.0
+AB000091,precio        ,1246.5
+AB000091,costo         ,922.41
+AB000091,fecha         ,Thu Aug 01 00:00:00 CST 2013
+AB000093,Descripcion   ,ALIEN THIERRY MUGLER DAMA PERFUME 50
+AB000093,Linea         ,Perfumeria
+AB000093,CostoPromedio ,986.0
+AB000093,CodigoCliente ,NE19416
+AB000093,NombreCliente ,Ac Ipsum Institute
+AB000093,CodigoTienda  ,T10
+AB000093,NombreTienda  ,Tienda 5
+AB000093,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000093,Region        ,Norte
+AB000093,Departamento  ,Baja Verapaz
+AB000093,CodigoPlanta  ,P2
+AB000093,NombrePlanta  ,Planta 2
+AB000093,Region_1      ,Norte
+AB000093,Departamento_1,Escuintla
+AB000093,cantidad      ,8.0
+AB000093,precio        ,1479.0
+AB000093,costo         ,1405.05
+AB000093,fecha         ,Thu Jun 01 00:00:00 CST 2017
+AB000094,Descripcion   ,ALLURE CHANEL DAMA TOILETTE 100
+AB000094,Linea         ,Perfumeria
+AB000094,CostoPromedio ,1081.0
+AB000094,CodigoCliente ,C214716
+AB000094,NombreCliente ,Zoe Walter
+AB000094,CodigoTienda  ,T32
+AB000094,NombreTienda  ,Tienda 43
+AB000094,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000094,Region        ,Norte
+AB000094,Departamento  ,Chiquimula
+AB000094,CodigoPlanta  ,P10
+AB000094,NombrePlanta  ,Planta 1
+AB000094,Region_1      ,Norte
+AB000094,Departamento_1,Guatemala
+AB000094,cantidad      ,7.0
+AB000094,precio        ,1621.5
+AB000094,costo         ,1005.33
+AB000094,fecha         ,Sun May 01 00:00:00 CST 2011
+AB000094,Descripcion   ,ALLURE CHANEL DAMA TOILETTE 100
+AB000094,Linea         ,Perfumeria
+AB000094,CostoPromedio ,1081.0
+AB000094,CodigoCliente ,MP63625
+AB000094,NombreCliente ,Ultrices Duis Volutpat Associates
+AB000094,CodigoTienda  ,T22
+AB000094,NombreTienda  ,Tienda 42
+AB000094,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000094,Region        ,Norte
+AB000094,Departamento  ,Jalapa
+AB000094,CodigoPlanta  ,P2
+AB000094,NombrePlanta  ,Planta 2
+AB000094,Region_1      ,Norte
+AB000094,Departamento_1,Escuintla
+AB000094,cantidad      ,25.0
+AB000094,precio        ,1621.5
+AB000094,costo         ,810.75
+AB000094,fecha         ,Fri Dec 01 00:00:00 CST 2006
+AB000094,Descripcion   ,ALLURE CHANEL DAMA TOILETTE 100
+AB000094,Linea         ,Perfumeria
+AB000094,CostoPromedio ,1081.0
+AB000094,CodigoCliente ,LZ68724
+AB000094,NombreCliente ,Sed Auctor Odio Foundation
+AB000094,CodigoTienda  ,T27
+AB000094,NombreTienda  ,Tienda 42
+AB000094,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000094,Region        ,Norte
+AB000094,Departamento  ,Jalapa
+AB000094,CodigoPlanta  ,P10
+AB000094,NombrePlanta  ,Planta 1
+AB000094,Region_1      ,Norte
+AB000094,Departamento_1,Guatemala
+AB000094,cantidad      ,11.0
+AB000094,precio        ,1621.5
+AB000094,costo         ,1378.275
+AB000094,fecha         ,Thu Jul 01 00:00:00 CST 2010
+AB000095,Descripcion   ,ALLURE CHANEL DAMA PERFUME 100
+AB000095,Linea         ,Perfumeria
+AB000095,CostoPromedio ,1381.0
+AB000095,CodigoCliente ,G373823
+AB000095,NombreCliente ,Leilani Mercado
+AB000095,CodigoTienda  ,T35
+AB000095,NombreTienda  ,Tienda 43
+AB000095,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000095,Region        ,Norte
+AB000095,Departamento  ,Chiquimula
+AB000095,CodigoPlanta  ,P1
+AB000095,NombrePlanta  ,Planta 1
+AB000095,Region_1      ,Norte
+AB000095,Departamento_1,Guatemala
+AB000095,cantidad      ,3.0
+AB000095,precio        ,2071.5
+AB000095,costo         ,1988.64
+AB000095,fecha         ,Wed Nov 01 00:00:00 CST 2006
+AB000095,Descripcion   ,ALLURE CHANEL DAMA PERFUME 100
+AB000095,Linea         ,Perfumeria
+AB000095,CostoPromedio ,1381.0
+AB000095,CodigoCliente ,VZ17471
+AB000095,NombreCliente ,Luctus Industries
+AB000095,CodigoTienda  ,T17
+AB000095,NombreTienda  ,Tienda 5
+AB000095,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000095,Region        ,Norte
+AB000095,Departamento  ,Baja Verapaz
+AB000095,CodigoPlanta  ,P4
+AB000095,NombrePlanta  ,Planta 4
+AB000095,Region_1      ,Sur
+AB000095,Departamento_1,Zacapa
+AB000095,cantidad      ,11.0
+AB000095,precio        ,2071.5
+AB000095,costo         ,1450.0500000000002
+AB000095,fecha         ,Tue May 01 00:00:00 CST 2007
+AB000096,Descripcion   ,ALLURE SENSUELLE CHANEL DAMA PERFUME 100
+AB000096,Linea         ,Perfumeria
+AB000096,CostoPromedio ,1351.0
+AB000096,CodigoCliente ,B179751
+AB000096,NombreCliente ,Chase Benjamin
+AB000096,CodigoTienda  ,T43
+AB000096,NombreTienda  ,Tienda 43
+AB000096,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000096,Region        ,Norte
+AB000096,Departamento  ,Chiquimula
+AB000096,CodigoPlanta  ,P3
+AB000096,NombrePlanta  ,Planta 3
+AB000096,Region_1      ,Norte
+AB000096,Departamento_1,El Progreso
+AB000096,cantidad      ,13.0
+AB000096,precio        ,2026.5
+AB000096,costo         ,1094.31
+AB000096,fecha         ,Wed Aug 01 00:00:00 CST 2007
+AB000096,Descripcion   ,ALLURE SENSUELLE CHANEL DAMA PERFUME 100
+AB000096,Linea         ,Perfumeria
+AB000096,CostoPromedio ,1351.0
+AB000096,CodigoCliente ,YR18376
+AB000096,NombreCliente ,Orci LLC
+AB000096,CodigoTienda  ,T42
+AB000096,NombreTienda  ,Tienda 43
+AB000096,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000096,Region        ,Norte
+AB000096,Departamento  ,Chiquimula
+AB000096,CodigoPlanta  ,P6
+AB000096,NombrePlanta  ,Planta 6
+AB000096,Region_1      ,Occidente
+AB000096,Departamento_1,Quetzaltenango
+AB000096,cantidad      ,20.0
+AB000096,precio        ,2026.5
+AB000096,costo         ,1702.26
+AB000096,fecha         ,Thu Oct 01 00:00:00 CST 2009
+AB000097,Descripcion   ,ALWAYS ALFRED SUNG DAMA PERFUME 100
+AB000097,Linea         ,Perfumeria
+AB000097,CostoPromedio ,381.0
+AB000097,CodigoCliente ,E683772
+AB000097,NombreCliente ,Vivian Patrick
+AB000097,CodigoTienda  ,T26
+AB000097,NombreTienda  ,Tienda 42
+AB000097,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000097,Region        ,Norte
+AB000097,Departamento  ,Jalapa
+AB000097,CodigoPlanta  ,P9
+AB000097,NombrePlanta  ,Planta 9
+AB000097,Region_1      ,Norte
+AB000097,Departamento_1,Izabal
+AB000097,cantidad      ,21.0
+AB000097,precio        ,571.5
+AB000097,costo         ,508.635
+AB000097,fecha         ,Tue Jan 01 00:00:00 CST 2013
+AB000097,Descripcion   ,ALWAYS ALFRED SUNG DAMA PERFUME 100
+AB000097,Linea         ,Perfumeria
+AB000097,CostoPromedio ,381.0
+AB000097,CodigoCliente ,B776597
+AB000097,NombreCliente ,Brenden Clark
+AB000097,CodigoTienda  ,T12
+AB000097,NombreTienda  ,Tienda 5
+AB000097,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000097,Region        ,Norte
+AB000097,Departamento  ,Baja Verapaz
+AB000097,CodigoPlanta  ,P10
+AB000097,NombrePlanta  ,Planta 1
+AB000097,Region_1      ,Norte
+AB000097,Departamento_1,Guatemala
+AB000097,cantidad      ,22.0
+AB000097,precio        ,571.5
+AB000097,costo         ,440.055
+AB000097,fecha         ,Sun Mar 01 00:00:00 CST 2009
+AB000097,Descripcion   ,ALWAYS ALFRED SUNG DAMA PERFUME 100
+AB000097,Linea         ,Perfumeria
+AB000097,CostoPromedio ,381.0
+AB000097,CodigoCliente ,T768464
+AB000097,NombreCliente ,Elaine Nielsen
+AB000097,CodigoTienda  ,T20
+AB000097,NombreTienda  ,Tienda 42
+AB000097,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000097,Region        ,Norte
+AB000097,Departamento  ,Jalapa
+AB000097,CodigoPlanta  ,P4
+AB000097,NombrePlanta  ,Planta 4
+AB000097,Region_1      ,Sur
+AB000097,Departamento_1,Zacapa
+AB000097,cantidad      ,20.0
+AB000097,precio        ,571.5
+AB000097,costo         ,320.03999999999996
+AB000097,fecha         ,Mon Jan 01 00:00:00 CST 2007
+AB000098,Descripcion   ,AMARIGE GIVENCHY DAMA TOILETTE 100
+AB000098,Linea         ,Perfumeria
+AB000098,CostoPromedio ,656.0
+AB000098,CodigoCliente ,NC39233
+AB000098,NombreCliente ,Magna Lorem LLC
+AB000098,CodigoTienda  ,T12
+AB000098,NombreTienda  ,Tienda 5
+AB000098,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000098,Region        ,Norte
+AB000098,Departamento  ,Baja Verapaz
+AB000098,CodigoPlanta  ,P7
+AB000098,NombrePlanta  ,Planta 7
+AB000098,Region_1      ,Sur
+AB000098,Departamento_1,Retalhuleu
+AB000098,cantidad      ,1.0
+AB000098,precio        ,984.0
+AB000098,costo         ,678.96
+AB000098,fecha         ,Sat Oct 01 00:00:00 CST 2011
+AB000098,Descripcion   ,AMARIGE GIVENCHY DAMA TOILETTE 100
+AB000098,Linea         ,Perfumeria
+AB000098,CostoPromedio ,656.0
+AB000098,CodigoCliente ,ZJ98595
+AB000098,NombreCliente ,Ultrices Sit Company
+AB000098,CodigoTienda  ,T35
+AB000098,NombreTienda  ,Tienda 43
+AB000098,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000098,Region        ,Norte
+AB000098,Departamento  ,Chiquimula
+AB000098,CodigoPlanta  ,P5
+AB000098,NombrePlanta  ,Planta 5
+AB000098,Region_1      ,Norte
+AB000098,Departamento_1,Petén
+AB000098,cantidad      ,4.0
+AB000098,precio        ,984.0
+AB000098,costo         ,747.84
+AB000098,fecha         ,Sat Feb 01 00:00:00 CST 2014
+AB000099,Descripcion   ,AMARIGE D`AMOUR GIVENCHY
+AB000099,Linea         ,Perfumeria
+AB000099,CostoPromedio ,500.0
+AB000099,CodigoCliente ,Y541543
+AB000099,NombreCliente ,Mari Winters
+AB000099,CodigoTienda  ,T42
+AB000099,NombreTienda  ,Tienda 43
+AB000099,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000099,Region        ,Norte
+AB000099,Departamento  ,Chiquimula
+AB000099,CodigoPlanta  ,P2
+AB000099,NombrePlanta  ,Planta 2
+AB000099,Region_1      ,Norte
+AB000099,Departamento_1,Escuintla
+AB000099,cantidad      ,8.0
+AB000099,precio        ,750.0
+AB000099,costo         ,457.5
+AB000099,fecha         ,Sun Apr 01 00:00:00 CST 2007
+AB000099,Descripcion   ,AMARIGE D`AMOUR GIVENCHY
+AB000099,Linea         ,Perfumeria
+AB000099,CostoPromedio ,500.0
+AB000099,CodigoCliente ,WX14184
+AB000099,NombreCliente ,Gravida Praesent Corp.
+AB000099,CodigoTienda  ,T41
+AB000099,NombreTienda  ,Tienda 43
+AB000099,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000099,Region        ,Norte
+AB000099,Departamento  ,Chiquimula
+AB000099,CodigoPlanta  ,P2
+AB000099,NombrePlanta  ,Planta 2
+AB000099,Region_1      ,Norte
+AB000099,Departamento_1,Escuintla
+AB000099,cantidad      ,7.0
+AB000099,precio        ,750.0
+AB000099,costo         ,615.0
+AB000099,fecha         ,Tue Feb 01 00:00:00 CST 2011
+AB000099,Descripcion   ,AMARIGE D`AMOUR GIVENCHY
+AB000099,Linea         ,Perfumeria
+AB000099,CostoPromedio ,500.0
+AB000099,CodigoCliente ,PC34354
+AB000099,NombreCliente ,Tincidunt Tempus LLP
+AB000099,CodigoTienda  ,T25
+AB000099,NombreTienda  ,Tienda 42
+AB000099,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000099,Region        ,Norte
+AB000099,Departamento  ,Jalapa
+AB000099,CodigoPlanta  ,P8
+AB000099,NombrePlanta  ,Planta 8
+AB000099,Region_1      ,Sur
+AB000099,Departamento_1,San Marcos
+AB000099,cantidad      ,7.0
+AB000099,precio        ,750.0
+AB000099,costo         ,472.5
+AB000099,fecha         ,Tue Nov 01 00:00:00 CST 2016
+AB000099,Descripcion   ,AMARIGE D`AMOUR GIVENCHY
+AB000099,Linea         ,Perfumeria
+AB000099,CostoPromedio ,500.0
+AB000099,CodigoCliente ,MU68338
+AB000099,NombreCliente ,Rhoncus Nullam PC
+AB000099,CodigoTienda  ,T41
+AB000099,NombreTienda  ,Tienda 43
+AB000099,Direccion     ,5 Calle 19-01 Calz. Jose Milla y Vidaurre
+AB000099,Region        ,Norte
+AB000099,Departamento  ,Chiquimula
+AB000099,CodigoPlanta  ,P4
+AB000099,NombrePlanta  ,Planta 4
+AB000099,Region_1      ,Sur
+AB000099,Departamento_1,Zacapa
+AB000099,cantidad      ,17.0
+AB000099,precio        ,750.0
+AB000099,costo         ,465.0
+AB000099,fecha         ,Wed Feb 01 00:00:00 CST 2017

@@ -1,0 +1,3 @@
+CodigoArticulo;Descripcion;Linea;CostoPromedio;CodigoCliente;NombreCliente;CodigoTienda;NombreTienda;Direccion;Region;Departamento;CodigoPlanta;NombrePlanta;Region_1;Departamento_1;cantidad;precio;costo;fecha
+;AMARIGE D`AMOUR GIVENCHY                                                ;Perfumeria       ;500;E767479;Brynn Higgins      ;T4 ;Tienda 43;5 Calle 19-01 Calz. Jose Milla y Vidaurre          ;Norte    ;Huehuetenango ;P3 ;Planta 3;Norte    ;El Progreso   ;14;750;457.5;01/11/2007
+;90210 VERY SEXY 2 TORAND, A SPELLING ENTERTEIMEN DAMA TOILETTE 100      ;Perfumeria       ;276;F919641;Uriel Taylor       ;T42;Tienda 43;5 Calle 19-01 Calz. Jose Milla y Vidaurre          ;Norte    ;Huehuetenango ;P2 ;Planta 2;Norte    ;Escuintla     ;12;414;314.6;01/01/2011
